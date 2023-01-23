@@ -11,7 +11,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 - Data Analyst
   - Google Data Analytics Professional(finished)
-  - DataRockies Bootcamp batch6(finished)
+  - DataRockie Bootcamp batch 6(finished)
   
 - Data Scientist  
   - The Data Master Xlab & Chula(pending)
