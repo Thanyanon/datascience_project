@@ -49,7 +49,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 - [x] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
 - [x] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
-- [ ] [Bigram of students name and surname](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/bigram_name_surname_.ipynb)
+- [x] [Bigram of students name and surname](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/bigram_name_surname_.ipynb)
 
 ### Essential Python for Data Analyst
 
