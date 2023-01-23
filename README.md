@@ -47,14 +47,15 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Intro to Python Programming
 
-- [ ] Card shuffle
-- [ ] Book rental shop
+- [ ] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
+- [ ] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
 - [ ] Bigram of students name and surname
 
 ### Essential Python for Data Analyst
 
-- [X] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
+- [ ] Healthy food sales increase recommendations
 - [X] [Rotten tomatoes movies reviews data cleaning](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes.ipynb)
+- [X] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
 
 ### Machine Learning
 
