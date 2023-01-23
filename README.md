@@ -29,7 +29,7 @@ My name is Thanyanon(Non),a 26 years ex Electrical engineer who's passionate in 
 
 ### Spreadsheet
 
-- Realworld usecase Annual Sales Report from xxCompany using Pivot table and Pivot chart
+- [ ] Realworld usecase Annual Sales Report from xxCompany using Pivot table and Pivot chart
 
 ### SQL
 
@@ -49,7 +49,7 @@ My name is Thanyanon(Non),a 26 years ex Electrical engineer who's passionate in 
 
 - [x] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
 - [x] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
-- [ ] Bigram of students name and surname
+- [ ] [Bigram of students name and surname](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/bigram_name_surname_.ipynb)
 
 ### Essential Python for Data Analyst
 
