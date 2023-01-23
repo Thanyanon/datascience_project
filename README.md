@@ -31,7 +31,7 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### SQL
 
-- [ ] Noodle restaurant Relational Database in this [Replit](https://replit.com/@ThanyanonSaetan/SQLhomeworkbatch6#main.sql)
+- [ ] [Noodle restaurant Relational Database](https://replit.com/@ThanyanonSaetan/SQLhomeworkbatch6#main.sql)
 
 ### Data Visualization
 
@@ -39,8 +39,8 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Intro to R programming
 
-- [ ] Pizza Chatbot in this [Replit](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
-- [ ] Rock paper scissors in this [Replit](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
+- [ ] [Pizza Chatbot](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
+- [ ] [Rock paper scissors](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
 
 ### Intro to Python Programming
 
