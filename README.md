@@ -31,7 +31,7 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### SQL
 
-- [ ] [Noodle restaurant Relational Database](https://replit.com/@ThanyanonSaetan/SQLhomeworkbatch6#main.sql)
+- [X] [Noodle restaurant Relational Database](https://replit.com/@ThanyanonSaetan/SQLhomeworkbatch6#main.sql)
 
 ### Data Visualization
 
@@ -39,8 +39,8 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Intro to R programming
 
-- [ ] [Pizza Chatbot](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
-- [ ] [Rock paper scissors](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
+- [X] [Pizza Chatbot](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
+- [X] [Rock paper scissors](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
 
 ### Intro to Python Programming
 
@@ -48,12 +48,12 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Essential Python for Data Analyst
 
-- [ ] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
-- [ ] Rotten tomatoes movies reviews data cleaning
+- [X] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
+- [X] [Rotten tomatoes movies reviews data cleaning](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes.ipynb)
 
 ### Machine Learning
 
-- [ ] [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
+- [X] [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
 ### Dashboard
 
