@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-Thanyanon(Non) a 26 years ex electrical engineer who's passionate in datascience
+Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 - [LinkedIn](https://www.linkedin.com/in/thanyanon-saetang-b17a20235/)
 - [Personal Website](https://thanyanonsa.wordpress.com/)
@@ -31,7 +31,7 @@ Thanyanon(Non) a 26 years ex electrical engineer who's passionate in datascience
 
 ### SQL
 
-- Noodle restaurant Relational Database
+- [ ] Noodle restaurant Relational Database
 
 ### Data Visualization
 
@@ -39,22 +39,22 @@ Thanyanon(Non) a 26 years ex electrical engineer who's passionate in datascience
 
 ### Intro to R programming
 
-- Pizza Chatbot
-- Rock paper scissors
+- [ ] Pizza Chatbot
+- [ ] Rock paper scissors
 
 ### Intro to Python Programming
 
-- Rock paper scissors
+- [ ] Rock paper scissors
 
 ### Essential Python for Data Analyst
 
-- Webscapping from prosetting.net
-- Rotten tomatoes movies reviews data cleaning
+- [ ] Webscapping from prosetting.net
+- [ ] Rotten tomatoes movies reviews data cleaning
 
 ### Machine Learning
 
-- Houseprice Prediction Kaggle competition
+- [ ] Houseprice Prediction Kaggle competition using sklearn
 
 ### Dashboard
 
-- Annual sales report simple dashboard
+- [ ] Annual sales report simple dashboard in excel
