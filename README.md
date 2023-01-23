@@ -33,7 +33,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### SQL
 
-- [X] [Noodle restaurant Relational Database](https://replit.com/@ThanyanonSaetan/SQLhomeworkbatch6#main.sql)
+- [X] [Noodle restaurant Relational Database](https://github.com/Thanyanon/datascience_project/tree/main/sql)
 
 ### Data Visualization
 
