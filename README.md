@@ -7,7 +7,7 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 - [LinkedIn](https://www.linkedin.com/in/thanyanon-saetang-b17a20235/)
 - [Personal Website](https://thanyanonsa.wordpress.com/)
 
-## Datascience Bootcamp attendance
+## Data science Bootcamp attendance
 
 - Data Analyst
   - Google Data Analytics Professional(finished)
@@ -17,12 +17,14 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
   - The Data Master Xlab & Chula(pending)
 
 - Data Engineer
-  - DataTH(pending)
+  - DataTH Road to Data Engineer 2.0(pending)
 
 ## Top project
 
-[MOST POPULAR GAMING MOUSE FROM FPS ESPORT PLAYER](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)
-  
+[Anual Sales Report Dashboard]
+[Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)
+[Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
+
 ## List of skill
 
 ### Spreadsheet
@@ -35,6 +37,7 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Data Visualization
 
+- [ ] Top 3 product brought quantity using matplotlib
 - [ ] Rotten Tomatoes Top movies using Tableau
 
 ### Intro to R programming
@@ -44,7 +47,9 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Intro to Python Programming
 
-- [ ] Rock paper scissors
+- [ ] Card shuffle
+- [ ] Book rental shop
+- [ ] Bigram of students name and surname
 
 ### Essential Python for Data Analyst
 
