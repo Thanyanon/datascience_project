@@ -53,7 +53,7 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Machine Learning
 
-- [ ] Houseprice Prediction Kaggle competition using sklearn
+- [ ] [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
 ### Dashboard
 
