@@ -39,8 +39,8 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Intro to R programming
 
-- [ ] Pizza Chatbot
-- [ ] Rock paper scissors
+- [ ] Pizza Chatbot in [Replit](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
+- [ ] Rock paper scissors in [Replit](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
 
 ### Intro to Python Programming
 
