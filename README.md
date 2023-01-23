@@ -35,7 +35,7 @@ Thanyanon(Non) a 26 years ex electrical engineer who's passionate in datascience
 
 ### Data Visualization
 
-- [] Rotten Tomatoes Top movies using Tableau
+- [ ] Rotten Tomatoes Top movies using Tableau
 
 ### Intro to R programming
 
