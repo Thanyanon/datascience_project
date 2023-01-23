@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
+My name is Thanyanon(Non),a 26 years ex Electrical engineer who's passionate in datascience
 
 - [LinkedIn](https://www.linkedin.com/in/thanyanon-saetang-b17a20235/)
 - [Personal Website](https://thanyanonsa.wordpress.com/)
