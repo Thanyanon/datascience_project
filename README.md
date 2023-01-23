@@ -48,7 +48,7 @@ Thanyanon(Non) a 26 years ex Electrical engineer who's passionate in datascience
 
 ### Essential Python for Data Analyst
 
-- [ ] Webscapping from prosetting.net using beautifulsoup
+- [ ] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
 - [ ] Rotten tomatoes movies reviews data cleaning
 
 ### Machine Learning
