@@ -1,0 +1,787 @@
+ign,name,age,age_range,birth,country,continent,team,game,edpi_ratio
+s1mple,Oleksandr Kostyliev,25,25-29,1997-10-02,Ukraine,EU,Natus Vincere,CS:GO,1.0
+NiKo,Nikola Kovač,25,25-29,1997-02-16,Bosnia and Herzegovina,EU,G2 Esports,CS:GO,1.0
+m0NESY,Ilya Osipov,17,15-19,2005-05-01,Russia,EU,G2 Esports,CS:GO,1.0
+TenZ,Tyson Ngo,21,20-24,2001-05-05,Canada,NA,Sentinels,VALORANT,3.18
+b1t,Valerii Vakhovskyi,19,15-19,2003-01-05,Ukraine,EU,Natus Vincere,CS:GO,1.0
+Twistzz,Russel Van Dulken,23,20-24,1999-11-14,Canada,NA,FaZe Clan,CS:GO,1.0
+ZywOo,Mathieu Herbaut,22,20-24,2000-11-09,France,EU,Team Vitality,CS:GO,1.0
+XANTARES,Can Dörtkardeş,27,25-29,1995-08-07,Turkey,AS,Eternal Fire,CS:GO,1.0
+ropz,Robin Kool,23,20-24,1999-12-22,Estonia,EU,FaZe Clan,CS:GO,1.0
+ScreaM,Adil Benrlitom,28,25-29,1994-07-02,Belgium,EU,Karmine Corp,VALORANT,3.18
+dev1ce,Nicolai Reedtz,27,25-29,1995-09-08,Denmark,EU,Astralis,CS:GO,1.0
+yay,Jaccob Whiteaker,24,20-24,1998-09-09,United States,NA,Cloud9,VALORANT,3.18
+shroud,Michael Grzesiek,28,25-29,1994-06-02,Canada,NA,Content Creator,VALORANT,3.18
+kennyS,Kenny Schrub,27,25-29,1995-05-19,France,EU,Falcons Esports,CS:GO,1.0
+electronic,Denis Sharipov,24,20-24,1998-09-02,Russia,EU,Natus Vincere,CS:GO,1.0
+L1NK,Travis Mendoza,24,20-24,1998-08-08,United Kingdom,EU,Free Agent,VALORANT,3.18
+Mistic,James Orfila,21,20-24,2001-11-21,United Kingdom,EU,Free Agent,VALORANT,3.18
+YEKINDAR,Mareks Gaļinskis,23,20-24,1999-10-04,Latvia,EU,Team Liquid,CS:GO,1.0
+Aunkere,Eugene Karyat,21,20-24,2001-08-21,Russia,EU,Benched Heroes,CS:GO,1.0
+Enzo,Enzo Mestari,26,25-29,1996-06-12,France,EU,Free Agent,VALORANT,3.18
+Leo,Leo Jannesson,19,15-19,2003-12-15,Sweden,EU,Fnatic,VALORANT,3.18
+b0i,Aaron Thao,26,25-29,1996-11-09,United States,NA,Free Agent,VALORANT,3.18
+Kyedae,Kyedae Shymko,21,20-24,2001-12-01,Canada,NA,100 Thieves,VALORANT,3.18
+pAura,Melih Karaduran,25,25-29,1997-10-27,Turkey,AS,Team Heretics,VALORANT,3.18
+d3ffo,Nikita Sudakov,21,20-24,2001-10-10,Russia,EU,Free Agent,VALORANT,3.18
+Alfajer,Emir Ali Beder,17,15-19,2005-06-10,Turkey,AS,Fnatic,VALORANT,3.18
+Mazino,Roberto Francisco Rivas Bugueño,21,20-24,2001-06-29,Chile,SA,Leviatan,VALORANT,3.18
+Shao,Andrey Kiprsky,22,20-24,2000-01-27,Russia,EU,Natus Vincere,VALORANT,3.18
+Toose,Ilya Chernyshov,20,20-24,2002-07-29,Russia,EU,Gambit,Fortnite,0.25
+EpikWhale,Shane Cotton,20,20-24,2002-08-03,United States,NA,TSM,Fortnite,0.25
+Sommerset,Kayla ,19,15-19,2003-08-09,United States,NA,Content Creator,Fortnite,0.25
+MrSavage,Martin Foss Andersen,18,15-19,2004-11-12,Norway,EU,Become Legends,Fortnite,0.25
+aqua,David Wang,20,20-24,2002-07-01,Austria,EU,Content Creator,Fortnite,0.25
+Rogue,Tanner Trebb,27,25-29,1995-11-29,Canada,NA,NRG,Apex,1.0
+Victor,Victor Wong,26,25-29,1996-09-14,United States,NA,NRG,VALORANT,3.18
+Marved,Jimmy Nguyen,22,20-24,2000-01-24,Canada,NA,Free Agent,VALORANT,3.18
+phaze,Karim Fouad,20,20-24,2002-01-07,Egypt,AF,Team RA’AD,VALORANT,3.18
+Suygetsu,Dmitry Ilyushin,20,20-24,2002-07-16,Russia,EU,Natus Vincere,VALORANT,3.18
+foxz,Itthirit Ngamsaard,23,20-24,1999-04-08,Thailand,AS,Talon Esports,VALORANT,3.18
+lyr1c,Lyric Quinonez,24,20-24,1998-05-11,United States,NA,eUnited,Apex,1.0
+sushiboys,Panyawat Subsiriroj,22,20-24,2000-11-06,Thailand,AS,Talon Esports,VALORANT,3.18
+Xdll,Yuto Mizomori,17,15-19,2005-12-11,Japan,AS,SCARZ,VALORANT,3.18
+mwzera,Leonardo Serrati,21,20-24,2001-06-30,Brazil,SA,FURIA,VALORANT,3.18
+Patiphan,Patiphan Chaiwong,19,15-19,2003-09-23,Thailand,AS,Talon Esports,VALORANT,3.18
+Cryocells,Matthew Panganiban,20,20-24,2002-12-22,United States,NA,100 Thieves,VALORANT,3.18
+Chronicle,Timofeyy Khromov,20,20-24,2002-08-16,Russia,EU,Fnatic,VALORANT,3.18
+BCJ,Brendan Jensen,22,20-24,2000-07-04,United States,NA,Evil Geniuses,VALORANT,3.18
+C0M,Corbin Lee,22,20-24,2000-05-10,United States,NA,Evil Geniuses,VALORANT,3.18
+Nozwerr,Agustin Ibarra,24,20-24,1998-05-08,Argentina,SA,Leviatan,VALORANT,3.18
+Nick Eh 30,Nicholas Amyoony,27,25-29,1995-03-14,Canada,NA,Content Creator,Fortnite,0.25
+Bugha,Kyle Giersdorf,20,20-24,2002-12-30,United States,NA,Content Creator,Fortnite,0.25
+Jacob,Jakub Wrotniak,21,20-24,2001-07-14,Poland,EU,Become Legends,Fortnite,0.25
+Zander,Alexander Dituri,21,20-24,2001-10-01,Canada,NA,Version1,VALORANT,3.18
+SugarZ3ro,Shota Watanabe,19,15-19,2003-03-18,Japan,AS,ZETA DIVISION,VALORANT,3.18
+Faide,Cole Caswell,22,20-24,2000-11-07,United States,NA,Content Creator,Apex,1.0
+NagZet,Juan Pablo Lopez Miranda,26,25-29,1996-11-12,Chile,SA,KRÜ Esports,VALORANT,3.18
+derrek,Derrek Ha,25,25-29,1997-09-16,United States,NA,100 Thieves,VALORANT,3.18
+Laz,Koji Ushida,27,25-29,1995-11-26,Japan,AS,ZETA DIVISION,VALORANT,3.18
+ethos,Alan Ruan,23,20-24,1999-05-02,United States,NA,NRG,VALORANT,3.18
+Zyppan,Pontus Eek,20,20-24,2002-07-17,Sweden,EU,Natus Vincere,VALORANT,3.18
+nukkye,Žygimantas Chmieliauskas,25,25-29,1997-11-05,Lithuania,EU,Giants,VALORANT,3.18
+benjyfishy,Benjy Fish,18,15-19,2004-04-02,United Kingdom,EU,Content Creator,VALORANT,3.18
+Malibuca,Danila Yakovenko,17,15-19,2005-10-14,Russia,EU,Galaxy Racer,Fortnite,0.25
+Setty,Iwo Zając,19,15-19,2003-09-08,Poland,EU,Become Legends,Fortnite,0.25
+dgzin,Douglas Silva,22,20-24,2000-07-06,Brazil,SA,FURIA,VALORANT,3.18
+BuZz,Yu Byung-chul,19,15-19,2003-01-13,South Korea,AS,DRX,VALORANT,3.18
+Martoz,Manuel Martinez,26,25-29,1996-12-12,Netherlands,EU,FaZe Clan,Fortnite,0.25
+keznit,Angelo Mori,21,20-24,2001-08-14,Chile,SA,Leviatan,VALORANT,3.18
+nAts,Ayaz Akhmetshin,20,20-24,2002-07-01,Russia,EU,Team Liquid,VALORANT,3.18
+iiTzTimmy,Timmy An,22,20-24,2000-04-19,United States,NA,Content Creator,Apex,1.0
+f0rsakeN,Jason Susanto,18,15-19,2004-03-25,Indonesia,AS,Paper Rex,VALORANT,3.18
+babybay,Andrej Francisty,27,25-29,1995-06-23,United States,NA,FaZe Clan,VALORANT,3.18
+Noahreyli,Noah Rey,17,15-19,2005-06-30,Switzerland,EU,Wave Esports,Fortnite,0.25
+7ssk7,Artur Kyurshin,23,20-24,1999-02-26,Belarus,EU,Natus Vincere,VALORANT,3.18
+Tfue,Turner Tenney,25,25-29,1998-01-02,United States,NA,Content Creator,Fortnite,0.25
+cauanzin,Cauan Pereira,17,15-19,2005-08-02,Brazil,SA,LOUD,VALORANT,3.18
+d4v41,Khalish Rusyaidee,24,20-24,1998-10-14,Malaysia,AS,Paper Rex,VALORANT,3.18
+tuyz,Arthur Vieira,19,15-19,2003-08-03,Brazil,SA,LOUD,VALORANT,3.18
+Sacy,Gustavo Rossi,25,25-29,1997-12-02,Brazil,SA,Sentinels,VALORANT,3.18
+Sayf,Saif Jibraeel,22,20-24,2001-01-01,Sweden,EU,Team Liquid,VALORANT,3.18
+AslaN,Ceyhun Aslan,25,25-29,1997-05-07,Germany,EU,BIG,VALORANT,3.18
+Shyy,Fabian Usnayo,18,15-19,2004-09-22,Chile,SA,Leviatan,VALORANT,3.18
+rhyme,Emir  Muminovic ,23,20-24,1999-01-12,Bosnia and Herzegovina,EU,Giants,VALORANT,3.18
+keloqz,Wassim Cista,19,15-19,2003-03-26,France,EU,Team Heretics,VALORANT,3.18
+Meddo,Johan Renbjörk Lundborg,23,20-24,1999-07-21,Sweden,EU,Free Agent,VALORANT,3.18
+Asuna,Peter Mazuryk,19,15-19,2003-07-26,United States,NA,100 Thieves,VALORANT,3.18
+dapr,Michael Gulino,24,20-24,1999-01-01,United States,NA,G2 Esports,VALORANT,3.18
+bang,Sean Bezerra,18,15-19,2004-03-13,United States,NA,100 Thieves,VALORANT,3.18
+stellar,Brenden McGrath,26,25-29,1996-07-29,United States,NA,100 Thieves,VALORANT,3.18
+soulcas,Dom Sulcas,23,20-24,2000-01-02,United Kingdom,EU,Team Liquid,VALORANT,3.18
+leaf,Nathan Orf,19,15-19,2003-11-24,United States,NA,Cloud9,VALORANT,3.18
+ImperialHal,Philip Dosen,23,20-24,1999-05-31,United States,NA,TSM,Apex,1.0
+Zekken,Zachary Patrone,17,15-19,2005-03-19,United States,NA,Sentinels,VALORANT,3.18
+Surefour,Lane Roberts,28,25-29,1994-11-04,Canada,NA,Content Creator,Overwatch,0.3
+koldamenta,Jose Luis Aranguren Herrero,29,25-29,1993-05-24,Spain,EU,KOI,VALORANT,3.18
+adverso,Benjamín Poblete,24,20-24,1998-03-13,Chile,SA,00Nation,VALORANT,3.18
+Sheydos,Bogdan Naumov,21,20-24,2001-10-01,Russia,EU,KOI,VALORANT,3.18
+mimi,Michaela Lintrup,25,25-29,1997-07-02,Denmark,EU,G2 Gozen,VALORANT,3.18
+trexx,Nikita Cherednichenko,18,15-19,2004-04-24,Russia,EU,KOI,VALORANT,3.18
+xmpl,Artem Adarkin,23,20-24,1999-04-23,Russia,EU,Natus Vincere,PUBG,0.24
+Beaulo,Jason Doty,21,20-24,2001-06-19,United States,NA,TSM,Rainbow,0.26
+Viss,Colton Visser,28,25-29,1994-08-22,United States,NA,TSM,Apex,1.0
+Spoit,William Löfstedt,18,15-19,2004-04-11,Sweden,EU,Rogue,Rainbow,0.26
+Pengu,Niclas Mouritzen,25,25-29,1997-10-07,Denmark,EU,DarkZero Esports,Rainbow,0.26
+ibiza,Jordan Van Geldere,26,25-29,1996-08-24,Netherlands,EU,the Woo,PUBG,0.24
+SILERZZ,Tristan van den Houte,20,20-24,2002-11-15,Belgium,EU,Content Creator,PUBG,0.24
+ubah,Ivan Kapustin,28,25-29,1994-09-22,Russia,EU,Natus Vincere,PUBG,0.24
+TGLTN,James Giezen,22,20-24,2000-11-10,Australia,OC,Soniqs,PUBG,0.24
+Jeemzz,Jim Eliassen,26,25-29,1996-10-06,Norway,EU,OVERPEEKERS,PUBG,0.24
+chocoTaco,Jake Throop,34,30-34,1988-09-22,United States,NA,TSM,Apex,1.0
+Pio,Cha Seung-Hoon,26,25-29,1996-03-24,South Korea,AS,Gen.G,PUBG,0.24
+Fuzzface,David Tillberg-Persson,28,25-29,1994-02-08,United States,NA,OVERPEEKERS,PUBG,0.24
+wippie,Maxim Shepelev,23,20-24,1999-05-31,Russia,EU,G2 Esports,VALORANT,3.18
+Apryze,Anthony Andrade,23,20-24,1999-01-19,United States,NA,NRG,Apex,1.0
+byali,Paweł Bieliński,28,25-29,1994-04-30,Poland,EU,UNGENTIUM,CS:GO,1.0
+honda,Lucas Cano,22,20-24,2000-07-21,Brazil,SA,Case Esports,CS:GO,1.0
+fox,Ricardo Pacheco,36,35-39,1986-11-15,Portugal,EU,Fourteen Esports,CS:GO,1.0
+DD,Wu Hui,28,25-29,1994-08-11,China,AS,Free Agent,CS:GO,1.0
+adreN,Eric Hoag,32,30-34,1990-04-26,United States,NA,Team Liquid,CS:GO,1.0
+Kvem,Vladyslav Korol,21,20-24,2001-08-29,Ukraine,EU,IKLA,CS:GO,1.0
+neaLaN,Sanzhar Iskhakov,22,20-24,2000-08-06,Kazakhstan,AS,Evil Geniuses,CS:GO,1.0
+tudsoN,Filip Tudev,22,20-24,2000-03-10,Poland,EU,Free Agent,CS:GO,1.0
+Lucky,Philip Ewald,20,20-24,2002-12-13,Denmark,EU,Tricked Esport,CS:GO,1.0
+LUCAS1,Lucas Teles,27,25-29,1995-07-14,Brazil,SA,Free Agent,CS:GO,1.0
+xsepower,Bogdan Chernikov,24,20-24,1998-02-26,Russia,EU,Nemiga Gaming,CS:GO,1.0
+Freeman,WinghEi Cheung,23,20-24,1999-07-25,Hong Kong,AS,TyLoo,CS:GO,1.0
+Walco,Colby Walsh,21,20-24,2001-11-12,Canada,NA,Evil Geniuses,CS:GO,1.0
+steel,Lucas Lopes,29,25-29,1993-11-19,Brazil,SA,Case Esports,CS:GO,1.0
+JamYoung,Yi Yang,21,20-24,2001-07-23,China,AS,Rare Atom,CS:GO,1.0
+MAJ3R,Engin Kupeli,31,30-34,1991-01-25,Turkey,AS,Eternal Fire,CS:GO,1.0
+wiz,Jerric Jiang,21,20-24,2001-02-21,United States,NA,Evil Geniuses,CS:GO,1.0
+tenzki,Jesper Mikalski,28,25-29,1994-06-25,Denmark,EU,Free Agent,CS:GO,1.0
+Nifty,Noah Francis,25,25-29,1997-11-23,United States,NA,Free Agent,CS:GO,1.0
+Maniac,Mathieu Quiquerez,32,30-34,1990-06-29,Switzerland,EU,Content Creator,CS:GO,1.0
+stanislaw,Peter Jarguz,25,25-29,1997-12-28,Canada,NA,Evil Geniuses,CS:GO,1.0
+JDC,Jon de Castro,22,20-24,2000-04-07,Germany,EU,MOUZ,CS:GO,1.0
+Buzz,Christian Møss Andersen,19,15-19,2003-03-14,Denmark,EU,Astralis,CS:GO,1.0
+meyern,Ignacio Meyer,20,20-24,2002-09-10,Argentina,SA,Isurus,CS:GO,1.0
+v1c7oR,Viktor Dyankov,28,25-29,1994-07-28,Bulgaria,EU,K1CK,CS:GO,1.0
+h4rn,Deyvid Benchev,22,20-24,2000-06-07,Bulgaria,EU,Enterprise Esports,CS:GO,1.0
+REDSTAR,Hristiyan Pironkov,21,20-24,2001-08-15,Bulgaria,EU,Free Agent,CS:GO,1.0
+speed4k,Anton Titov,26,25-29,1996-06-04,Russia,EU,Free Agent,CS:GO,1.0
+allu,Aleksi Jalli,30,30-34,1992-05-20,Finland,EU,JANO Esports,CS:GO,1.0
+aizy,Philip Aistrup,26,25-29,1996-06-04,Denmark,EU,Tokyo Revengers,CS:GO,1.0
+denis,Denis Howell,28,25-29,1994-08-18,Germany,EU,Free Agent,CS:GO,1.0
+XigN,Hyun-pyo Lee,25,25-29,1997-03-26,South Korea,AS,Team NKT,CS:GO,1.0
+balblna,Gregory Oleinick,26,25-29,1996-01-15,Russia,EU,Free Agent,CS:GO,1.0
+mds,Aleksandr Rubets,24,20-24,1998-08-13,Belarus,EU,Websterz,CS:GO,1.0
+Dosia,Mikhail Stolyarov,34,30-34,1988-06-19,Russia,EU,Free Agent,CS:GO,1.0
+mou,Rüstem Tlepov,31,30-34,1991-10-17,Kazakhstan,AS,Free Agent,CS:GO,1.0
+AdreN,Dauren Kystaubayev,32,30-34,1990-02-04,Kazakhstan,AS,Free Agent,CS:GO,1.0
+SANJI,Sanjar Kuliev,24,20-24,1998-11-18,Uzbekistan,AS,Virtus.pro,CS:GO,1.0
+MODDII,Andreas Fridh,33,30-34,1989-07-18,Sweden,EU,Astralis Talent,CS:GO,1.0
+Bubzkji,Lucas Andersen,24,20-24,1998-07-03,Denmark,EU,Free Agent,CS:GO,1.0
+USTILO,Karlo Pivac,29,25-29,1993-08-10,Australia,OC,Free Agent,CS:GO,1.0
+Sonic,Aran Groesbeek,24,20-24,1998-12-02,South Africa,AF,Free Agent,CS:GO,1.0
+kressy,Marko Đorđević,26,25-29,1996-07-19,Germany,EU,Free Agent,CS:GO,1.0
+fl0m,Erik Flom,30,30-34,1992-09-14,United States,NA,Mythic,CS:GO,1.0
+dennis,Dennis Edman,31,30-34,1991-01-07,Sweden,EU,Free Agent,CS:GO,1.0
+bondik,Vlаdуslаv Nеchуроrchuk,29,25-29,1993-07-02,Ukraine,EU,Free Agent,CS:GO,1.0
+sycrone,Dennis Nielsen,26,25-29,1996-02-11,Denmark,EU,MOUZ,CS:GO,1.0
+EspiranTo,Rokas EspiranTo,21,20-24,2001-04-12,Lithuania,EU,Free Agent,CS:GO,1.0
+NaToSaphiX,Niels Christian Sillassen,26,25-29,1996-08-17,Denmark,EU,Free Agent,CS:GO,1.0
+oBo,Owen Schlatter,19,15-19,2003-06-26,United States,NA,Free Agent,CS:GO,1.0
+HS,Kevin Tarn,26,25-29,1996-12-15,Estonia,EU,Free Agent,CS:GO,1.0
+Edward,Ioann Sukhariev,35,35-39,1987-12-28,Ukraine,EU,Free Agent,CS:GO,1.0
+Xizt,Richard Landström,31,30-34,1991-02-22,Sweden,EU,Heroic,CS:GO,1.0
+MICHU,Michał Müller,26,25-29,1996-12-29,Poland,EU,Benched Heroes,CS:GO,1.0
+doto,Joonas Forss,26,25-29,1996-02-18,Finland,EU,HAVU,CS:GO,1.0
+keiz,Ruann Rotondano,21,20-24,2001-07-22,Brazil,SA,Team oNe eSports,CS:GO,1.0
+waterfaLLZ,Nikita Matveyev,27,25-29,1995-06-18,Russia,EU,Free Agent,CS:GO,1.0
+Senoxe,Adam Lau,23,20-24,1999-08-10,Canada,NA,Sentinels,Apex,1.0
+kRYSTAL,Kevin Amend,29,25-29,1993-07-23,Germany,EU,Free Agent,CS:GO,1.0
+gAuLeS,Alexandre Chiqueta,39,35-39,1983-12-02,Brazil,SA,Content Creator,CS:GO,1.0
+hutji,Pavel Lashkov,27,25-29,1995-09-13,Russia,EU,Free Agent,CS:GO,1.0
+bit,Bruno Lima,32,30-34,1990-07-16,Brazil,SA,MIBR,CS:GO,1.0
+ISSAA,Issa Murad,26,25-29,1996-12-23,Jordan,AS,Free Agent,CS:GO,1.0
+kyxsan,Damjan Stoilkovski,22,20-24,2000-05-26,North Macedonia,EU,Apeks,CS:GO,1.0
+smooya,Owen Butterfield,23,20-24,1999-08-16,United Kingdom,EU,Benched Heroes,CS:GO,1.0
+KrizzeN,Aidyn Turlybekov,23,20-24,1999-09-24,Kazakhstan,AS,Free Agent,CS:GO,1.0
+emi,Luka Vukovic,29,25-29,1993-09-05,Serbia,EU,Partizan Esports,CS:GO,1.0
+phr,Tomasz Wójcik,26,25-29,1996-09-26,Poland,EU,AGO,CS:GO,1.0
+morelz,Piotr Taterka,28,25-29,1994-07-28,Poland,EU,Illuminar,CS:GO,1.0
+mouz,Mikołaj Karolewski,27,25-29,1995-10-25,Poland,EU,Free Agent,CS:GO,1.0
+GruBy,Dominik Świderski,27,25-29,1995-02-28,Poland,EU,UNGENTIUM,CS:GO,1.0
+seized,Denis Kostin,28,25-29,1994-09-09,Russia,EU,9 Pandas,CS:GO,1.0
+GuardiaN,Ladislav Kovács,31,30-34,1991-07-09,Slovakia,EU,Free Agent,CS:GO,1.0
+xertioN,Dorian Berman,18,15-19,2004-07-22,Israel,AS,MOUZ,CS:GO,1.0
+kolor,Ádám Domoszlay,23,20-24,1999-10-26,Hungary,EU,Free Agent,CS:GO,1.0
+CRUC1AL,Joey Steusel,25,25-29,1997-02-04,Netherlands,EU,Endpoint,CS:GO,1.0
+rallen,Karol Radowicz,28,25-29,1994-06-08,Poland,EU,Free Agent,CS:GO,1.0
+Surreal,Kia Man,26,25-29,1996-05-11,United Kingdom,EU,Endpoint,CS:GO,1.0
+draken,William Sundin,27,25-29,1995-10-05,Sweden,EU,Into The Breach,CS:GO,1.0
+w0nderful,Ihor Zhdanov,18,15-19,2004-12-14,Ukraine,EU,Team Spirit,CS:GO,1.0
+nqz,Lucas Soares,17,15-19,2005-01-18,Brazil,SA,9z Team,CS:GO,1.0
+Nertz,Guy Iluz,23,20-24,1999-07-12,Israel,AS,Endpoint,CS:GO,1.0
+clax,Timur Sabirov,20,20-24,2002-06-08,Russia,EU,Free Agent,CS:GO,1.0
+ztr,Erik Gustafsson,19,15-19,2003-08-02,Sweden,EU,Young Ninjas,CS:GO,1.0
+Lobanjica,Nikola Mijomanović,33,30-34,1989-09-15,Montenegro,EU,Content Creator,CS:GO,1.0
+Pimp,Jacob Winneche,27,25-29,1995-07-31,Denmark,EU,Content Creator,CS:GO,1.0
+DemQQ,Serhii Demchenko,21,20-24,2001-05-23,Ukraine,EU,Monte,CS:GO,1.0
+stfN,Stefan Seier,30,30-34,1992-11-11,Germany,EU,Free Agent,CS:GO,1.0
+SIXER,Cristophe Xia,31,30-34,1991-04-21,France,EU,Ambush Esports,CS:GO,1.0
+fitch,Bektiyar Bahytov,30,30-34,1992-07-15,Kazakhstan,AS,Golden Knights Gaming,CS:GO,1.0
+Almazer,Almaz Assadulin,24,20-24,1998-11-06,Russia,EU,Trident Clan,CS:GO,1.0
+HexT,Jadan Postma,21,20-24,2001-10-30,Canada,NA,Evil Geniuses,CS:GO,1.0
+Nodios,Magnus Olsen,23,20-24,1999-05-07,Denmark,EU,TITANS,CS:GO,1.0
+Xand,Alexandre Zizi,27,25-29,1995-04-11,Brazil,SA,KRÜ Esports,VALORANT,3.18
+LogaN,Logan Corti,24,20-24,1998-06-18,France,EU,Team BDS,VALORANT,3.18
+xms,Alexandre Forté,25,25-29,1997-05-24,France,EU,Karmine Corp,VALORANT,3.18
+Raijin,Konstantin Trubarov,21,20-24,2001-01-07,Russia,EU,K23,CS:GO,1.0
+buda,Nicolás Kramer,19,15-19,2003-02-24,Argentina,SA,9z Team,CS:GO,1.0
+s1n,Elias Stein,20,20-24,2002-03-18,Germany,EU,BIG,CS:GO,1.0
+Annihilation,Tuvshintugs Nyamdorj,22,20-24,2000-01-25,Mongolia,AS,IHC Esports,CS:GO,1.0
+fANDER,Ilya Bagrev,23,20-24,1999-06-02,Russia,EU,Content Creator,CS:GO,1.0
+ngiN,Engin Kor,29,25-29,1993-05-27,Turkey,AS,Angry Titans,VALORANT,3.18
+Smithzz,Edouard Dubourdeaux,34,30-34,1988-12-17,France,EU,Content Creator,CS:GO,1.0
+DavCost,Vadim Vasilyev,26,25-29,1996-05-18,Russia,EU,Invictus Gaming,CS:GO,1.0
+kinqie,Semyon Lisitsyn,31,30-34,1991-11-07,Russia,EU,Free Agent,CS:GO,1.0
+motm,Ian Hardy,23,20-24,1999-10-23,United States,NA,ATK,CS:GO,1.0
+svyat,Svyatoslav Dovbakh,28,25-29,1994-11-07,Russia,EU,Free Agent,CS:GO,1.0
+Jackinho,Jack Mattson,23,20-24,1999-03-07,Sweden,EU,Free Agent,CS:GO,1.0
+kory,Kornél Szedlár,24,20-24,1998-07-12,Hungary,EU,Sangal,CS:GO,1.0
+1mpala,Stefan Ailazian,23,20-24,1999-02-27,Ukraine,EU,S-Gaming,CS:GO,1.0
+jR,Dmitriy Chervak,29,25-29,1993-10-22,Ukraine,EU,Run Or Die,CS:GO,1.0
+rAge,Dmitry Bolotov,25,25-29,1997-07-27,Ukraine,EU,Free Agent,CS:GO,1.0
+JUGi,Jakob Hansen,25,25-29,1997-04-01,Denmark,EU,Fokus Clan,VALORANT,3.18
+Moose,Kaleb Jayne,24,20-24,1998-03-19,Canada,NA,Shopify Rebellion,VALORANT,3.18
+Mercury,Jingxiang Wang,22,20-24,2000-12-15,China,AS,Rare Atom,CS:GO,1.0
+Vexite,Declan Portelli,18,15-19,2004-09-05,Australia,OC,Grayhound Gaming,CS:GO,1.0
+joel,Joel Holmlund,18,15-19,2004-09-24,Sweden,EU,Free Agent,CS:GO,1.0
+erkaSt,Erdenetsogt Gantulga,27,25-29,1995-03-19,Mongolia,AS,Team NKT,CS:GO,1.0
+somebody,Haowen Xu,27,25-29,1995-07-03,China,AS,Content Creator,CS:GO,1.0
+Zeus,Danylo Teslenko,35,35-39,1987-10-08,Ukraine,EU,Retired,CS:GO,1.0
+RpK,Cédric Guipouy,33,30-34,1989-08-12,France,EU,Retired,CS:GO,1.0
+RUBINO,Ruben Villaroel,28,25-29,1994-03-21,Norway,EU,Free Agent,VALORANT,3.18
+summit1g,Jaryd Lazar,35,35-39,1987-04-23,United States,NA,Content Creator,Overwatch,0.3
+jL,Justinas Lekavicius,23,20-24,1999-09-29,Lithuania,EU,Apeks,CS:GO,1.0
+Rock1nG,Ivan Stratiev,26,25-29,1996-08-19,Bulgaria,EU,allStars Gaming,CS:GO,1.0
+TMB,Thomas Bundsbæk,20,20-24,2002-02-03,Denmark,EU,Copenhagen Flames,CS:GO,1.0
+S0TF1k,Dmitry Forostyanko,28,25-29,1994-09-29,Russia,EU,Team Spirit,CS:GO,1.0
+crush,Igor Shevchenko,27,25-29,1995-08-12,Ukraine,EU,Natus Vincere Jr.,CS:GO,1.0
+kyuubii,Can Kamber,17,15-19,2005-03-16,Germany,EU,Sangal,CS:GO,1.0
+Dimaoneshot,Dmitriy Bandurka,27,25-29,1995-01-27,Russia,EU,Free Agent,CS:GO,1.0
+devoduvek,David Dobrosavljevic,28,25-29,1994-11-03,France,EU,Ambush Esports,CS:GO,1.0
+blocker,Yanko Panov,23,20-24,1999-04-17,Bulgaria,EU,Free Agent,CS:GO,1.0
+MistR,Mikkel Thomsen,18,15-19,2004-04-22,Denmark,EU,Astralis Talent,CS:GO,1.0
+CacaNito,Aleksandar Kjulukoski,22,20-24,2000-11-09,North Macedonia,EU,BLUEJAYS,CS:GO,1.0
+Soulfly,Caner Kesici,18,15-19,2004-06-16,Turkey,AS,Sangal,CS:GO,1.0
+kst,Francisco Fragoso,21,20-24,2001-11-12,Portugal,EU,For The Win Esports,CS:GO,1.0
+Kaze,Andrew Khong,28,25-29,1994-07-22,Malaysia,AS,Rare Atom,CS:GO,1.0
+suNny,Miika Kemppi,28,25-29,1994-08-24,Finland,EU,Free Agent,CS:GO,1.0
+sausol,Pere Solsona Saumell,22,20-24,2000-05-31,Spain,EU,Movistar Riders,CS:GO,1.0
+lux,Lucas Meneghini,20,20-24,2002-04-18,Brazil,SA,Fluxo,CS:GO,1.0
+ZOREE,Lasse Uronen,29,25-29,1993-10-15,Finland,EU,JANO Esports,CS:GO,1.0
+Jeorge,Jeorge Endicott,19,15-19,2003-04-14,United States,NA,Evil Geniuses,CS:GO,1.0
+seangares,Sean Gares,34,30-34,1988-06-10,United States,NA,100 Thieves,VALORANT,3.18
+mertz,Daniel Mertz,24,20-24,1998-09-29,Denmark,EU,Free Agent,CS:GO,1.0
+fostar,Stanislav Ostashevskyi,22,20-24,2000-03-09,Ukraine,EU,Free Agent,CS:GO,1.0
+DEVIL,Timothée Démolon,28,25-29,1994-12-11,France,EU,The Dice,CS:GO,1.0
+NEO,Filip Kubski,35,35-39,1987-06-15,Poland,EU,HONORIS,CS:GO,1.0
+TaZ,Wiktor Wojtas,36,35-39,1986-07-06,Poland,EU,HONORIS,CS:GO,1.0
+ChrisJ,Chris de Jong,32,30-34,1990-05-25,Netherlands,EU,Free Agent,CS:GO,1.0
+supra,Anton Tšernobai,22,20-24,2000-10-09,Estonia,EU,TITANS,CS:GO,1.0
+innocent,Paweł Mocek,29,25-29,1993-12-20,Poland,EU,Anonymo,CS:GO,1.0
+Cooper,Austin Abadir,28,25-29,1994-05-29,United States,NA,Mythic,CS:GO,1.0
+Lucaozy,Lucas Neves,21,20-24,2001-10-16,Brazil,SA,Fluxo,CS:GO,1.0
+xccurate,Kevin Susanto,24,20-24,1998-02-18,Indonesia,AS,Team NKT,CS:GO,1.0
+iDISBALANCE,Artem Egorov,26,25-29,1996-12-17,Russia,EU,K23,CS:GO,1.0
+FlipiN,Antonio Rivas Del Rey,35,35-39,1987-09-28,Spain,EU,Content Creator,CS:GO,1.0
+paz,Ahmet Karahoca,25,25-29,1997-04-24,Turkey,AS,Free Agent,CS:GO,1.0
+freakazoid,Ryan Abadir,30,30-34,1992-11-25,United States,NA,Mythic,CS:GO,1.0
+z4kr,SiKe Zhang,20,20-24,2002-11-14,China,AS,Lynn Vision,CS:GO,1.0
+cromen,Jørgen Robertsen,27,25-29,1995-05-31,Norway,EU,Free Agent,CS:GO,1.0
+Golden,Maikil Selim,28,25-29,1994-02-02,Sweden,EU,Savage,CS:GO,1.0
+DeStiNy,Lucas Bullo,25,25-29,1997-10-30,Brazil,SA,Isurus,CS:GO,1.0
+realzin,Antonio Oliviera,27,25-29,1995-07-01,Brazil,SA,B4,CS:GO,1.0
+shz,Bruno Martinelli,24,20-24,1998-04-21,Brazil,SA,Los Grandes,CS:GO,1.0
+zevy,Romeu Rocco,21,20-24,2001-05-30,Brazil,SA,paiN Gaming,CS:GO,1.0
+Kristou,Kristoffer Aamand,20,20-24,2002-01-05,Denmark,EU,Astralis Talent,CS:GO,1.0
+Queenix,Jonas Dideriksen,23,20-24,1999-07-15,Denmark,EU,ECSTATIC,CS:GO,1.0
+Jyo,Rassim Vallijev,27,25-29,1995-02-18,Estonia,EU,K23,CS:GO,1.0
+zehN,Jesse Linjala,31,30-34,1991-11-07,Finland,EU,HAVU,CS:GO,1.0
+ramz1k,Ramazan Bashizov,23,20-24,1999-12-09,Kazakhstan,AS,Golden Knights Gaming,CS:GO,1.0
+TOAO,Mateusz Zawistowski,26,25-29,1996-10-07,Poland,EU,Illuminar,CS:GO,1.0
+jnt,Jhonatan Silva,28,25-29,1994-05-22,Brazil,SA,Sharks Esports,CS:GO,1.0
+danoco,Daniel Morgado,27,25-29,1995-12-14,Brazil,SA,Corinthians,CS:GO,1.0
+daps,Damian Steele,29,25-29,1993-07-29,Canada,NA,Team Liquid,CS:GO,1.0
+sergej,Jere Salo,20,20-24,2002-03-01,Finland,EU,Gorillaz Esports,CS:GO,1.0
+facecrack,Dmitriy Alekseyev,28,25-29,1994-04-22,Russia,EU,Invictus Gaming,CS:GO,1.0
+captainMo,Ke Liu,33,30-34,1989-05-30,China,AS,Steel Helmet,CS:GO,1.0
+yel,Gustavo Knittel,30,30-34,1992-05-22,Brazil,SA,O PLANO,CS:GO,1.0
+k1to,Nils Gruhne,24,20-24,1998-11-28,Germany,EU,BIG,CS:GO,1.0
+SHOOWTiME,Gustavo Gonçalves,25,25-29,1997-04-01,Brazil,SA,Corinthians,CS:GO,1.0
+MarKE,Edgar Maldonado,24,20-24,1998-05-10,Mexico,NA,Free Agent,CS:GO,1.0
+Rickeh,Ricky Mulholland,31,30-34,1991-11-22,Australia,OC,Aftershock,CS:GO,1.0
+t0rick,Maksim Zaikin,28,25-29,1994-07-06,Azerbaijan,AS,Free Agent,CS:GO,1.0
+ableJ,Rinaldo Moda Junior,24,20-24,1998-11-05,Brazil,SA,Free Agent,CS:GO,1.0
+ScrunK,Robin Röpke,27,25-29,1995-07-10,Germany,EU,Sangal,CS:GO,1.0
+mir,Nikolay Bityukov,26,25-29,1996-01-10,Russia,EU,Entropiq,CS:GO,1.0
+AMANEK,François Delauney,29,25-29,1993-08-24,France,EU,LDLC OL,CS:GO,1.0
+Krimbo,Karim Moussa,20,20-24,2002-09-26,Germany,EU,BIG,CS:GO,1.0
+k0nfig,Kristian Wienecke,25,25-29,1997-04-19,Denmark,EU,Heroic,CS:GO,1.0
+blameF,Benjamin Bremer,25,25-29,1997-06-10,Denmark,EU,Astralis,CS:GO,1.0
+VINI,Vinicius Figueiredo,23,20-24,1999-05-20,Brazil,SA,Imperial Esports,CS:GO,1.0
+GeT_RiGhT,Christopher Alesund,32,30-34,1990-05-29,Sweden,EU,Content Creator,CS:GO,1.0
+FalleN,Gabriel Toledo,31,30-34,1991-05-30,Brazil,SA,Imperial Esports,CS:GO,1.0
+fer,Fernando Alvarenga,31,30-34,1991-10-30,Brazil,SA,Imperial Esports,CS:GO,1.0
+Stewie2k,Jake Yip,24,20-24,1998-01-07,United States,NA,Evil Geniuses,VALORANT,3.18
+Farlig,Asger Jensen,23,20-24,1999-03-17,Denmark,EU,Astralis,CS:GO,1.0
+Chawzyyy,Hugo Günther,17,15-19,2005-03-11,Sweden,EU,Free Agent,CS:GO,1.0
+BOROS,Mohammad Malhas,18,15-19,2004-05-04,Jordan,AS,Monte,CS:GO,1.0
+HEN1,Henrique Teles,27,25-29,1995-07-14,Brazil,SA,MIBR,CS:GO,1.0
+es3tag,Patrick Hansen,27,25-29,1995-11-29,Denmark,EU,Ninjas in Pyjamas,CS:GO,1.0
+REZ,Fredrik Sterner,24,20-24,1998-01-11,Sweden,EU,Ninjas in Pyjamas,CS:GO,1.0
+Brollan,Ludvig Brolin,20,20-24,2002-06-17,Sweden,EU,Ninjas in Pyjamas,CS:GO,1.0
+Jimpphat,Jimi Salo,16,15-19,2006-09-09,Finland,EU,MOUZ NXT,CS:GO,1.0
+misutaaa,Kévin Rabier,19,15-19,2003-01-15,France,EU,Falcons Esports,CS:GO,1.0
+Peppzor,Peppe Borak,20,20-24,2002-07-23,Sweden,EU,EYEBALLERS,CS:GO,1.0
+apEX,Dan Madesclaire,29,25-29,1993-02-22,France,EU,Team Vitality,CS:GO,1.0
+Fessor,Frederik Sørensen,21,20-24,2001-01-24,Denmark,EU,Monte,CS:GO,1.0
+FURIOUSSS,Anıl Bozdoğan,24,20-24,1998-01-23,Turkey,AS,Luminosity,CS:GO,1.0
+Maikelele,Mikail Bill,31,30-34,1991-05-03,Sweden,EU,Content Creator,CS:GO,1.0
+Boombl4,Kirill Mikhailov,24,20-24,1998-12-20,Russia,EU,Free Agent,CS:GO,1.0
+Perfecto,Ilya Zalutskiy,23,20-24,1999-11-24,Russia,EU,Natus Vincere,CS:GO,1.0
+regali,Iulian Harjău,20,20-24,2002-08-26,Romania,EU,Copenhagen Flames,CS:GO,1.0
+RuStY,Alfred Karlsson,25,25-29,1997-10-04,Sweden,EU,Into The Breach,CS:GO,1.0
+iM,Ivan Mihai,23,20-24,1999-07-29,Romania,EU,GamerLegion,CS:GO,1.0
+poizon,Valentin Vasilev,24,20-24,1998-11-29,Bulgaria,EU,Free Agent,CS:GO,1.0
+forsyy,David Bílý,21,20-24,2001-11-12,Czechia,EU,SINNERS Esports,CS:GO,1.0
+Magisk,Emil Reif,24,20-24,1998-03-05,Denmark,EU,Team Vitality,CS:GO,1.0
+dupreeh,Peter Rasmussen,29,25-29,1993-03-26,Denmark,EU,Team Vitality,CS:GO,1.0
+Zero,Patrik Žúdel,24,20-24,1998-09-16,Slovakia,EU,SINNERS Esports,CS:GO,1.0
+isak,Isak Fahlén,21,20-24,2001-09-02,Sweden,EU,GamerLegion,CS:GO,1.0
+eraa,Sean Knutsson,21,20-24,2001-08-12,Sweden,EU,Young Ninjas,CS:GO,1.0
+tabseN,Johannes Wodarz,27,25-29,1995-04-05,Germany,EU,BIG,CS:GO,1.0
+refrezh,Ismail Ali,24,20-24,1998-02-19,Denmark,EU,Sprout,CS:GO,1.0
+cadiaN,Casper Møller,27,25-29,1995-06-26,Denmark,EU,Heroic,CS:GO,1.0
+FaNg,Justin Coakley,20,20-24,2002-05-07,Canada,NA,Complexity,CS:GO,1.0
+JT,Johnny Theodosiou,23,20-24,1999-04-09,South Africa,AF,Complexity,CS:GO,1.0
+Grim,Michael Wince,22,20-24,2000-11-22,United States,NA,Complexity,CS:GO,1.0
+junior,Paytyn Johnson,22,20-24,2000-12-10,United States,NA,Complexity,CS:GO,1.0
+floppy,Ricky Kemery,23,20-24,1999-12-31,United States,NA,Complexity,CS:GO,1.0
+Jerry,Andrey Mekhryakov,24,20-24,1998-05-24,Russia,EU,forZe,CS:GO,1.0
+stavn,Martin Lund,20,20-24,2002-03-26,Denmark,EU,Heroic,CS:GO,1.0
+rigoN,Rigon Gashi,23,20-24,1999-10-07,Switzerland,EU,Bad News Eagles,CS:GO,1.0
+SENER1,Sener Mahmuti,25,25-29,1997-01-19,Kosovo,EU,Bad News Eagles,CS:GO,1.0
+Zyphon,Rasmus Nordfoss,18,15-19,2004-02-18,Denmark,EU,Sprout,CS:GO,1.0
+jabbi,Jakob Nygaard,19,15-19,2003-07-23,Denmark,EU,Heroic,CS:GO,1.0
+roeJ,Fredrik Jørgensen,29,25-29,1993-11-20,Denmark,EU,Fnatic,CS:GO,1.0
+nicoodoz,Nico Tamjidi,22,20-24,2000-08-02,Denmark,EU,Fnatic,CS:GO,1.0
+HooXi,Rasmus Nielsen,27,25-29,1995-05-21,Denmark,EU,G2 Esports,CS:GO,1.0
+sjuush,Rasmus Beck,24,20-24,1999-01-03,Denmark,EU,Heroic,CS:GO,1.0
+TeSeS,René Madsen,22,20-24,2000-12-12,Denmark,EU,Heroic,CS:GO,1.0
+gxx,Genc Kolgeci,23,20-24,1999-05-03,Kosovo,EU,Bad News Eagles,CS:GO,1.0
+zorte,Aleksandr Zagodyrenko,24,20-24,1998-05-28,Russia,EU,forZe,CS:GO,1.0
+KENSI,Aleksandr Gurkin,21,20-24,2001-11-13,Russia,EU,Aurora,CS:GO,1.0
+Brehze,Vincent Cayonte,24,20-24,1998-05-22,United States,NA,Evil Geniuses,CS:GO,1.0
+RUSH,Will Wierzba,28,25-29,1994-05-05,United States,NA,Evil Geniuses,CS:GO,1.0
+interz,Timofey Yakushin,22,20-24,2000-08-04,Russia,EU,Cloud9,CS:GO,1.0
+sh1ro,Dmitriy Sokolov,21,20-24,2001-07-15,Russia,EU,Cloud9,CS:GO,1.0
+HObbit,Abay Khasenov,28,25-29,1994-05-18,Kazakhstan,AS,Cloud9,CS:GO,1.0
+Xyp9x,Andreas Højsleth,27,25-29,1995-09-11,Denmark,EU,Astralis,CS:GO,1.0
+gla1ve,Lukas Rossander,27,25-29,1995-06-07,Denmark,EU,Astralis,CS:GO,1.0
+CeRq,Cvetelin Dimitrov,23,20-24,1999-12-07,Bulgaria,EU,Evil Geniuses,CS:GO,1.0
+EliGE,Jonathan Jablonowski,25,25-29,1997-07-19,United States,NA,Team Liquid,CS:GO,1.0
+XELLOW,Adrian Guță,22,20-24,2000-10-06,Romania,EU,Sprout,CS:GO,1.0
+FinigaN,Vladislav Usov,23,20-24,1999-02-16,Russia,EU,Free Agent,CS:GO,1.0
+NAF,Keith Markovic,25,25-29,1997-11-24,Canada,NA,Team Liquid,CS:GO,1.0
+dav1d,David Tapia Maldonado,22,20-24,2000-06-07,Chile,SA,9z Team,CS:GO,1.0
+rox,Martin Molina,20,20-24,2002-09-15,Argentina,SA,9z Team,CS:GO,1.0
+max,Maximiliano Gonzalez,23,20-24,1999-06-15,Uruguay,SA,9z Team,CS:GO,1.0
+shox,Richard Papillon,30,30-34,1992-05-27,France,EU,Apeks,CS:GO,1.0
+oSee,Joshua Ohm,23,20-24,1999-05-31,United States,NA,Team Liquid,CS:GO,1.0
+Jamppi,Elias Olkkonen,21,20-24,2001-07-22,Finland,EU,Team Liquid,VALORANT,3.18
+F1KU,Maciej Miklas,19,15-19,2003-05-29,Poland,EU,OG Esports,CS:GO,1.0
+s1ren,Pavel Ogloblin,20,20-24,2002-07-16,Russia,EU,Team Spirit,CS:GO,1.0
+Furlan,Damian Kisłowski,28,25-29,1994-12-29,Poland,EU,AGO,CS:GO,1.0
+jedqr,Grzegorz Jędras,24,20-24,1998-11-03,Poland,EU,AGO,CS:GO,1.0
+Goofy,Krzysztof Górski,22,20-24,2000-08-29,Poland,EU,9INE,CS:GO,1.0
+Sobol,Kamil Sobolewski,24,20-24,1998-01-24,Poland,EU,Free Agent,CS:GO,1.0
+Marix,Max Kugener,19,15-19,2003-07-30,Luxembourg,EU,OG Academy,CS:GO,1.0
+Staehr,Victor Staehr,18,15-19,2004-07-19,Denmark,EU,Sprout,CS:GO,1.0
+leman,Eryk Kocęba,25,25-29,1997-01-21,Poland,EU,AGO,CS:GO,1.0
+kRaSnaL,Szymon Mrozek,19,15-19,2003-04-02,Poland,EU,Monte,CS:GO,1.0
+Nivera,Nabil Benrlitom,21,20-24,2001-06-10,Belgium,EU,Karmine Corp,VALORANT,3.18
+vanity,Anthony Malaspina,24,20-24,1998-12-04,United States,NA,Cloud9,VALORANT,3.18
+xeta,Seon-Ho Son,25,25-29,1997-06-03,South Korea,AS,T1,VALORANT,3.18
+Aleksib,Aleksi Virolainen,25,25-29,1997-03-30,Finland,EU,Ninjas in Pyjamas,CS:GO,1.0
+D0cC,Shuaib Ahmad,22,20-24,2000-09-04,Netherlands,EU,Content Creator,CS:GO,1.0
+slaxz,Fritz Dietrich,24,20-24,1998-11-25,Germany,EU,Free Agent,CS:GO,1.0
+Spiidi,Timo Richter,27,25-29,1995-09-13,Germany,EU,Free Agent,CS:GO,1.0
+raalz,Rasmus Steensborg,27,25-29,1995-07-30,Denmark,EU,Copenhagen Flames,CS:GO,1.0
+Norwi,Evgeniy Ermolin,21,20-24,2001-03-20,Russia,EU,forZe,CS:GO,1.0
+fame,Pyotr Bolyshev,19,15-19,2003-03-03,Russia,EU,Outsiders,CS:GO,1.0
+ardiis,Ardis Svarenieks,24,20-24,1998-05-01,Latvia,EU,NRG,VALORANT,3.18
+Tacolilla,Vicente Compagnon,22,20-24,2000-10-03,Chile,SA,Leviatan,VALORANT,3.18
+Less,Felipe Basso,17,15-19,2005-02-24,Brazil,SA,LOUD,VALORANT,3.18
+Sayaplayer,Ha Jung-woo,24,20-24,1998-07-29,South Korea,AS,T1,VALORANT,3.18
+SoOn,Terence Tarlier,28,25-29,1994-02-04,France,EU,CGN Esports,VALORANT,3.18
+dicey,Quan Tran,20,20-24,2002-12-17,United States,NA,FaZe Clan,VALORANT,3.18
+aceu,Brandon Winn,27,25-29,1995-04-07,United States,NA,Sentinels,Apex,1.0
+AvovA,Auni Chahade,24,20-24,1998-11-05,Denmark,EU,Team Heretics,VALORANT,3.18
+sinatraa,Jay Won,22,20-24,2000-03-18,United States,NA,Sentinels,VALORANT,3.18
+governor,Peter No,19,15-19,2003-08-19,United States,NA,Free Agent,VALORANT,3.18
+crashies,Austin Roberts,25,25-29,1997-12-20,United States,NA,NRG,VALORANT,3.18
+Doma,Domagoj Fancev,19,15-19,2003-07-29,Croatia,EU,MAD Lions,VALORANT,3.18
+KRYPTIX,James Affleck,27,25-29,1995-05-24,United Kingdom,EU,Free Agent,VALORANT,3.18
+mitch,Mitch Semago,26,25-29,1996-07-31,United States,NA,Free Agent,VALORANT,3.18
+Redgar,Igor Vlasov,25,25-29,1997-10-17,Russia,EU,Team Liquid,VALORANT,3.18
+cNed,Mehmet Yağız İpek,20,20-24,2002-01-18,Turkey,AS,Natus Vincere,VALORANT,3.18
+Zeek,Aleksander Zygmunt,21,20-24,2001-09-11,Poland,EU,Team Heretics,VALORANT,3.18
+Kiles,Vladyslav Shvets,25,25-29,1997-08-26,Ukraine,EU,Free Agent,VALORANT,3.18
+Rawkus,Shane Flaherty,28,25-29,1994-06-16,United States,NA,Free Agent,VALORANT,3.18
+curry,Rahul Nemani,20,20-24,2002-08-05,United States,NA,Free Agent,VALORANT,3.18
+FASHR,Dion Derksen,26,25-29,1996-01-10,Netherlands,EU,Fnatic,CS:GO,1.0
+Benkai,Benedict Tan,26,25-29,1996-11-10,Singapore,AS,Paper Rex,VALORANT,3.18
+mindfreak,Aaron Leonhart,23,20-24,1999-10-04,Indonesia,AS,Paper Rex,VALORANT,3.18
+TENNN,Tenta Asai,21,20-24,2001-10-19,Japan,AS,ZETA DIVISION,VALORANT,3.18
+Dep,Yuma Hashimoto,22,20-24,2000-12-04,Japan,AS,ZETA DIVISION,VALORANT,3.18
+crow,Tomoaki Maruoka,25,25-29,1997-11-28,Japan,AS,ZETA DIVISION,VALORANT,3.18
+ShadoW,Tobias Flodström,27,25-29,1995-06-11,Sweden,EU,Free Agent,VALORANT,3.18
+Zest,Kim Gi-seok,22,20-24,2000-12-27,South Korea,AS,DRX,VALORANT,3.18
+MaKo,Kim Myeong-kwan,20,20-24,2002-01-15,South Korea,AS,DRX,VALORANT,3.18
+stax,Kim Gu-taek,22,20-24,2000-02-16,South Korea,AS,DRX,VALORANT,3.18
+valyn,Jacob Batio,19,15-19,2003-01-04,United States,NA,The Guard,VALORANT,3.18
+hoody,Aaro Peltokangas,24,20-24,1998-09-17,Finland,EU,Giants,VALORANT,3.18
+Kanpeki,Eric Xu,25,25-29,1997-11-21,United States,NA,Free Agent,VALORANT,3.18
+Rb,Goo Sang-min,21,20-24,2001-12-07,South Korea,AS,DRX,VALORANT,3.18
+effys,Loic Sauvageau,30,30-34,1992-09-19,Canada,NA,Version1,VALORANT,3.18
+Lakia,Kim Jong-min,22,20-24,2000-12-24,South Korea,AS,DWG KIA,VALORANT,3.18
+Saadhak,Matias Delipetro,25,25-29,1997-03-08,Argentina,SA,LOUD,VALORANT,3.18
+sinnopsyy,Dionis Budeci,27,25-29,1995-07-24,Albania,EU,Bad News Eagles,CS:GO,1.0
+juanflatroo,Flatron Halimi,25,25-29,1997-03-18,Kosovo,EU,Bad News Eagles,CS:GO,1.0
+mhL,Miłosz Knasiak,20,20-24,2002-03-03,Poland,EU,MOUZ NXT,CS:GO,1.0
+siuhy,Kamil Szkaradek,20,20-24,2002-08-26,Poland,EU,GamerLegion,CS:GO,1.0
+szejn,Hubert Światły,20,20-24,2002-01-04,Poland,EU,Free Agent,CS:GO,1.0
+JOTA,Jhonatan Willian,24,20-24,1998-02-02,Brazil,SA,MIBR,CS:GO,1.0
+Tuurtle,Matheus Marques Anhaia,24,20-24,1998-10-31,Brazil,SA,MIBR,CS:GO,1.0
+shalfey,Aleksandr Marenov,20,20-24,2002-06-08,Russia,EU,forZe,CS:GO,1.0
+coldzera,Marcelo David,28,25-29,1994-10-31,Brazil,SA,00Nation,CS:GO,1.0
+Daffu,Jakob Schildt,25,25-29,1997-09-24,Denmark,EU,ECSTATIC,CS:GO,1.0
+maNkz,Marcus Kjeldsen,24,20-24,1998-04-21,Denmark,EU,ECSTATIC,CS:GO,1.0
+birdfromsky,Thomas Due Frederiksen,29,25-29,1993-09-09,Denmark,EU,Copenhagen Flames,CS:GO,1.0
+BnTeT,Hansel Ferdinand,27,25-29,1995-08-28,Indonesia,AS,Team NKT,CS:GO,1.0
+WOOD7,Adriano Cerato,27,25-29,1995-05-23,Brazil,SA,Fluxo,CS:GO,1.0
+brnz4n,Breno Poletto,19,15-19,2003-08-26,Brazil,SA,MIBR,CS:GO,1.0
+rain,Håvard Nygaard,28,25-29,1994-08-27,Norway,EU,FaZe Clan,CS:GO,1.0
+Python,Jordan Munck-Foehrle,21,20-24,2001-11-16,France,EU,Falcons Esports,CS:GO,1.0
+autimatic,Timothy Ta,26,25-29,1996-09-10,United States,NA,Evil Geniuses,CS:GO,1.0
+nitr0,Nicholas Cannella,27,25-29,1995-08-16,United States,NA,Team Liquid,CS:GO,1.0
+tarik,Tarik Celik,26,25-29,1996-02-18,United States,NA,Sentinels,VALORANT,3.18
+JASONR,Jason Ruchelski,28,25-29,1994-08-02,Canada,NA,Content Creator,VALORANT,3.18
+Relyks,Skyler Weaver,27,25-29,1995-01-12,United States,NA,Free Agent,VALORANT,3.18
+Drone,Taylor Johnson,25,25-29,1997-08-29,United States,NA,Free Agent,VALORANT,3.18
+Cutler,Stephen Cutler,24,20-24,1998-11-27,United States,NA,Free Agent,VALORANT,3.18
+Will,William Cheng,23,20-24,1999-11-20,Canada,NA,Free Agent,VALORANT,3.18
+delz1k,Joaquín Ignacio Espinoza Soto,22,20-24,2000-06-22,Chile,SA,Free Agent,VALORANT,3.18
+AYRIN,Jordan He,26,25-29,1996-04-04,Canada,NA,Global Esports,VALORANT,3.18
+nython,Gabriel Lino,25,25-29,1997-10-10,Brazil,SA,paiN Gaming,CS:GO,1.0
+Wardell,Matthew Yu,24,20-24,1998-07-05,Canada,NA,Free Agent,VALORANT,3.18
+dgt,Franco Garcia,21,20-24,2001-05-12,Uruguay,SA,9z Team,CS:GO,1.0
+karrigan,Finn Andersen,32,30-34,1990-04-14,Denmark,EU,FaZe Clan,CS:GO,1.0
+dephh,Rory Jackson,31,30-34,1991-12-23,United Kingdom,EU,Sentinels,VALORANT,3.18
+broky,Helvijs Saukants,21,20-24,2001-02-14,Latvia,EU,FaZe Clan,CS:GO,1.0
+JACKZ,Audric Jug,30,30-34,1992-07-07,France,EU,HEET,CS:GO,1.0
+AZK,Kevin Larivière ,31,30-34,1991-03-25,Canada,NA,Free Agent,VALORANT,3.18
+Skadoodle,Tyler Latham,29,25-29,1993-07-21,United States,NA,Free Agent,VALORANT,3.18
+mixwell,Oscar Cañellas Colocho,23,20-24,1999-10-10,Spain,EU,Team Heretics,VALORANT,3.18
+Ethan,Ethan Arnold,22,20-24,2000-03-02,United States,NA,Evil Geniuses,VALORANT,3.18
+Hiko,Spencer Martin,32,30-34,1990-03-06,United States,NA,Content Creator,VALORANT,3.18
+huNter,Nemanja Kovač,27,25-29,1996-01-03,Bosnia and Herzegovina,EU,G2 Esports,CS:GO,1.0
+SicK,Hunter Mims,24,20-24,1998-09-02,United States,NA,Sentinels,VALORANT,3.18
+ShahZaM,Shahzeb Khan,29,25-29,1993-10-08,United States,NA,G2 Esports,VALORANT,3.18
+FNS,Pujan Mehta,30,30-34,1992-03-19,Canada,NA,NRG,VALORANT,3.18
+ANGE1,Kirill Karasiow,33,30-34,1989-09-10,Ukraine,EU,Natus Vincere,VALORANT,3.18
+Subroza,Yassine Taoufik,25,25-29,1997-07-06,Canada,NA,TSM,VALORANT,3.18
+Zellsis,Jordan Montemurro,24,20-24,1998-03-02,United States,NA,Cloud9,VALORANT,3.18
+pyth,Jacob Mourujärvi,29,25-29,1993-09-21,Sweden,EU,Bleed eSports,VALORANT,3.18
+brax,Braxton Pierce,26,25-29,1996-09-20,United States,NA,T1,VALORANT,3.18
+dimasick,Dmitry Matvienko,26,25-29,1996-07-06,Kazakhstan,AS,Free Agent,VALORANT,3.18
+vice,Daniel Kim,27,25-29,1995-11-09,United States,NA,ANDBOX,VALORANT,3.18
+lowel,Christian Garcia Antoran,26,25-29,1996-12-11,Spain,EU,Team Heretics,VALORANT,3.18
+s0m,Sam Oh,20,20-24,2002-06-07,United States,NA,NRG,VALORANT,3.18
+hazed,James Cobb,33,30-34,1989-05-22,United States,NA,Free Agent,VALORANT,3.18
+tiziaN,Tizian Feldbusch,26,25-29,1996-06-15,Germany,EU,BIG,CS:GO,1.0
+flusha,Robin Rönnquist,29,25-29,1993-08-12,Sweden,EU,EYEBALLERS,CS:GO,1.0
+Snax,Janusz Pogorzelski,29,25-29,1993-07-05,Poland,EU,Finest,CS:GO,1.0
+PKL,Vinícios Coelho,28,25-29,1994-07-21,Brazil,SA,paiN Gaming,CS:GO,1.0
+cajunb,René Borg,33,30-34,1989-12-13,Denmark,EU,Astralis Talent,CS:GO,1.0
+SLOWLY,Kelun Sun,21,20-24,2001-09-23,China,AS,TyLoo,CS:GO,1.0
+KioShiMa,Fabien Fiey,28,25-29,1994-07-29,France,EU,Free Agent,CS:GO,1.0
+mirbit,Sabit Coktasar,26,25-29,1996-11-04,Germany,EU,Nordavind,CS:GO,1.0
+NickelBack,Alexey Trofimov,25,25-29,1997-07-17,Russia,EU,Entropiq,CS:GO,1.0
+Lack1,Viktor Boldyrev,23,20-24,1999-08-20,Kazakhstan,AS,Aurora,CS:GO,1.0
+Krad,Vladislav Kravchenko,23,20-24,1999-01-09,Russia,EU,forZe,CS:GO,1.0
+latto,Bruno Rebelatto,20,20-24,2002-12-21,Brazil,SA,00Nation,CS:GO,1.0
+dream3r,Simeon Ganev,25,25-29,1997-01-28,Bulgaria,EU,Free Agent,CS:GO,1.0
+mezii,William Merriman,24,20-24,1998-10-15,United Kingdom,EU,Fnatic,CS:GO,1.0
+b0RUP,Johannes Borup,23,20-24,1999-09-29,Denmark,EU,Copenhagen Flames,CS:GO,1.0
+MiGHTYMAX,Max Heath,25,25-29,1997-07-14,United Kingdom,EU,Endpoint,CS:GO,1.0
+sterling,Euan Moore,24,20-24,1998-06-27,New Zealand,OC,Encore Esports Club,CS:GO,1.0
+DANK1NG,Zhenghao Lyu,23,20-24,1999-09-15,China,AS,TyLoo,CS:GO,1.0
+Summer,YuLun Cai,25,25-29,1997-05-16,China,AS,TyLoo,CS:GO,1.0
+Attacker,YuanZhang Sheng,25,25-29,1997-01-07,China,AS,TyLoo,CS:GO,1.0
+Rainwaker,Aleks Petrov,21,20-24,2001-04-27,Bulgaria,EU,500,CS:GO,1.0
+dennyslaw,Denislav Dimitrov,23,20-24,1999-11-17,Bulgaria,EU,500,CS:GO,1.0
+Forester,Igor Bezotecheskiy,23,20-24,2000-01-03,Russia,EU,Entropiq,CS:GO,1.0
+El1an,Aleksey Gusev,23,20-24,1999-07-19,Russia,EU,Entropiq,CS:GO,1.0
+LNZ,Linus Holtäng,20,20-24,2002-10-20,Sweden,EU,Free Agent,CS:GO,1.0
+phzy,Love Smidebrant,20,20-24,2002-09-24,Sweden,EU,Sangal,CS:GO,1.0
+boX,Anton Burko,27,25-29,1995-02-16,Belarus,EU,Websterz,CS:GO,1.0
+Wolfy,Adam Andersson,24,20-24,1998-12-08,Sweden,EU,Fnatic Rising,CS:GO,1.0
+alex,Alejandro Masanet Candela,27,25-29,1995-12-15,Spain,EU,Movistar Riders,CS:GO,1.0
+mopoz,Alejandro Fernández-Quejo Cano,26,25-29,1996-08-07,Spain,EU,Movistar Riders,CS:GO,1.0
+hAdji,Ali Haïnouss,27,25-29,1995-11-03,France,EU,Falcons Esports,CS:GO,1.0
+dav1g,David Granado Bermudo,21,20-24,2001-06-06,Spain,EU,Movistar Riders,CS:GO,1.0
+SunPayus,Alvaro Garcia,24,20-24,1998-11-19,Spain,EU,ENCE,CS:GO,1.0
+olofmeister,Olof Kajbjer Gustafsson,30,30-34,1992-01-31,Sweden,EU,FaZe Clan,CS:GO,1.0
+pashaBiceps,Jarosław Jarząbkowski,34,30-34,1988-04-11,Poland,EU,Content Creator,CS:GO,1.0
+felps,João Vasconcellos,26,25-29,1996-12-16,Brazil,SA,Fluxo,CS:GO,1.0
+TACO,Epitácio de Melo,27,25-29,1995-01-24,Brazil,SA,00Nation,CS:GO,1.0
+dumau,Eduardo Wolkmer,19,15-19,2003-11-09,Brazil,SA,00Nation,CS:GO,1.0
+b4rtiN,Bruno Câmara,20,20-24,2002-01-11,Brazil,SA,GODSENT,CS:GO,1.0
+anarkez,Guy Trachtman,23,20-24,1999-11-08,Israel,AS,Free Agent,CS:GO,1.0
+shokz,Kristjan Jakobson,25,25-29,1997-12-23,Estonia,EU,Finest,CS:GO,1.0
+kreaz,Rasmus Johansson,24,20-24,1998-04-10,Sweden,EU,Finest,CS:GO,1.0
+PlesseN,Niclas Plessen,24,20-24,1998-05-29,Sweden,EU,Finest,CS:GO,1.0
+n0thing,Jordan Gilbert,32,30-34,1990-10-25,United States,NA,Content Creator,CS:GO,1.0
+bodyy,Alexandre Pianaro,25,25-29,1997-01-08,France,EU,HEET,CS:GO,1.0
+JW,Jesper Wecksell,27,25-29,1995-02-23,Sweden,EU,EYEBALLERS,CS:GO,1.0
+gade,Nicklas Gade,28,25-29,1994-11-06,Denmark,EU,Retired,CS:GO,1.0
+SZPERO,Grzegorz Dziamałek,31,30-34,1991-06-06,Poland,EU,9INE,CS:GO,1.0
+snatchie,Michał Rudzki,24,20-24,1998-01-31,Poland,EU,AGO,CS:GO,1.0
+prt,Matheus Scuvero,25,25-29,1997-12-18,Brazil,SA,Free Agent,CS:GO,1.0
+pesadelo,Matheus Panisset,23,20-24,1999-08-12,Brazil,SA,Team oNe eSports,CS:GO,1.0
+Maluk3,Pedro Campos,32,30-34,1990-03-21,Brazil,SA,Team oNe eSports,CS:GO,1.0
+trk,Alencar Rossato,27,25-29,1995-06-24,Brazil,SA,Team oNe eSports,CS:GO,1.0
+Kyojin,Jayson Nguyen,23,20-24,1999-04-02,France,EU,Free Agent,CS:GO,1.0
+Keoz,Nicolas Dgus,22,20-24,2000-12-29,Belgium,EU,GamerLegion,CS:GO,1.0
+nawwk,Tim Jonasson,25,25-29,1997-10-30,Sweden,EU,Free Agent,CS:GO,1.0
+STYKO,Martin Styk,26,25-29,1996-02-23,Slovakia,EU,Apeks,CS:GO,1.0
+Kvik,Aurimas Kvakšys,27,25-29,1995-11-18,Lithuania,EU,Free Agent,CS:GO,1.0
+jmqa,Savely Bragin,25,25-29,1997-04-17,Russia,EU,Free Agent,CS:GO,1.0
+sLowi,Olli Pitkänen,26,25-29,1996-02-27,Finland,EU,JANO Esports,CS:GO,1.0
+ottoNd,Otto Sihvo,25,25-29,1997-11-07,Finland,EU,HAVU,CS:GO,1.0
+xseveN,Sami Laasanen,28,25-29,1994-08-14,Finland,EU,HAVU,CS:GO,1.0
+Aerial,Jani Jussila,29,25-29,1993-06-11,Finland,EU,HAVU,CS:GO,1.0
+Kjaerbye,Markus Kjærbye,24,20-24,1998-04-27,Denmark,EU,Free Agent,CS:GO,1.0
+AcilioN,Asger Larsen,26,25-29,1996-09-25,Denmark,EU,Apeks,CS:GO,1.0
+jkaem,Joakim Myrbostad,28,25-29,1994-02-27,Norway,EU,Apeks,CS:GO,1.0
+Maka,Bryan Canda,25,25-29,1997-07-06,France,EU,Falcons Esports,CS:GO,1.0
+Woro2k,Volodymyr Veletniuk,21,20-24,2001-08-08,Ukraine,EU,Monte,CS:GO,1.0
+flamie,Egor Vasilyev,25,25-29,1997-04-05,Russia,EU,1WIN,CS:GO,1.0
+lollipop21k,Igor Solodkov,26,25-29,1996-06-21,Belarus,EU,Websterz,CS:GO,1.0
+Jonji,Jonathan Carey,23,20-24,1999-09-05,Canada,NA,Evil Geniuses,CS:GO,1.0
+lauNX,Laurentiu Tarlea,17,15-19,2005-05-10,Romania,EU,Sprout,CS:GO,1.0
+HEAP,Ludvig Alonso,23,20-24,1999-12-24,Sweden,EU,Free Agent,CS:GO,1.0
+hallzerk,Håkon Fjærli,22,20-24,2000-07-14,Norway,EU,Complexity,CS:GO,1.0
+f0rest,Patrik Lindberg,34,30-34,1988-06-10,Sweden,EU,Free Agent,CS:GO,1.0
+friberg,Adam Friberg,31,30-34,1991-10-19,Sweden,EU,Free Agent,CS:GO,1.0
+n0rb3r7,David Daniyelyan,21,20-24,2001-03-11,Armenia,AS,Outsiders,CS:GO,1.0
+deko,Denis Zhukov,21,20-24,2001-07-10,Russia,EU,1WIN,CS:GO,1.0
+leo_drk,Leonardo Oliveira,23,20-24,1999-10-19,Brazil,SA,Case Esports,CS:GO,1.0
+ZEDKO,Jindřich Chyba,24,20-24,1998-05-03,Czechia,EU,SINNERS Esports,CS:GO,1.0
+beastik,Sebastian Daňo,24,20-24,1998-01-05,Czechia,EU,SINNERS Esports,CS:GO,1.0
+NBK-,Nathan Schmitt,28,25-29,1994-06-05,France,EU,Falcons Esports,CS:GO,1.0
+jks,Justin Savage,27,25-29,1995-12-12,Australia,OC,G2 Esports,CS:GO,1.0
+sdy,Victor Orudzhev,25,25-29,1997-03-14,Ukraine,EU,Free Agent,CS:GO,1.0
+kNgV-,Vito Giuseppe,30,30-34,1992-09-26,Brazil,SA,O PLANO,CS:GO,1.0
+try,Santino Rigal,18,15-19,2004-09-23,Argentina,SA,00Nation,CS:GO,1.0
+malbsMd,Mario Samayoa,20,20-24,2002-10-17,Guatemala,NA,Team oNe eSports,CS:GO,1.0
+vsm,Vinicius Moreira,23,20-24,1999-07-02,Brazil,SA,Fluxo,CS:GO,1.0
+ALEX,Alex McMeekin,27,25-29,1995-09-28,United Kingdom,EU,Free Agent,CS:GO,1.0
+NEKIZ,Gabriel Schenato,27,25-29,1995-11-17,Brazil,SA,O PLANO,CS:GO,1.0
+maden,Pavle Bošković,24,20-24,1998-11-12,Montenegro,EU,ENCE,CS:GO,1.0
+Spinx,Lotan Giladi,22,20-24,2000-09-13,Israel,AS,Team Vitality,CS:GO,1.0
+hades,Aleksander Miskiewicz,23,20-24,2000-01-01,Poland,EU,Free Agent,CS:GO,1.0
+dycha,Paweł Dycha,25,25-29,1997-08-11,Poland,EU,ENCE,CS:GO,1.0
+Snappi,Marco Pfeiffer,32,30-34,1990-06-09,Denmark,EU,ENCE,CS:GO,1.0
+MSL,Mathias Lauridsen,28,25-29,1994-12-06,Denmark,EU,TITANS,CS:GO,1.0
+Luken,Luca Nadotti,25,25-29,1997-03-26,Argentina,SA,Free Agent,CS:GO,1.0
+Hatz,Jordan Bajic,24,20-24,1998-06-20,Australia,OC,Free Agent,CS:GO,1.0
+bLitz,Byambasuren Garidmagnai,21,20-24,2001-06-26,Mongolia,AS,IHC Esports,CS:GO,1.0
+yuurih,Yuri Santos,23,20-24,1999-12-22,Brazil,SA,FURIA,CS:GO,1.0
+arT,Andrei Piovezan,26,25-29,1996-03-27,Brazil,SA,FURIA,CS:GO,1.0
+boltz,Ricardo Prass,25,25-29,1997-04-10,Brazil,SA,Imperial Esports,CS:GO,1.0
+fnx,Lincoln Lau,32,30-34,1990-01-30,Brazil,SA,Imperial Esports,CS:GO,1.0
+Sico,Simon Williams,28,25-29,1994-08-08,Australia,OC,Grayhound Gaming,CS:GO,1.0
+nin9,Yesuntumur Gantulga,24,20-24,1998-04-03,Mongolia,AS,Team NKT,CS:GO,1.0
+kabal,Bat-Enkh Batbayar,27,25-29,1995-06-01,Mongolia,AS,IHC Esports,CS:GO,1.0
+Techno4K,Sodbayar Munkhbold,17,15-19,2005-05-20,Mongolia,AS,IHC Esports,CS:GO,1.0
+saffee,Rafael Costa,28,25-29,1994-12-19,Brazil,SA,FURIA,CS:GO,1.0
+drop,André Abreu,18,15-19,2004-01-15,Brazil,SA,FURIA,CS:GO,1.0
+kscerato,Kaike Cerato,23,20-24,1999-09-12,Brazil,SA,FURIA,CS:GO,1.0
+INS,Joshua Potter,24,20-24,1998-09-22,Australia,OC,Grayhound Gaming,CS:GO,1.0
+aliStair,Alistair Johnston,24,20-24,1998-04-07,Australia,OC,Grayhound Gaming,CS:GO,1.0
+woxic,Özgür Eker,24,20-24,1998-09-02,Turkey,AS,Eternal Fire,CS:GO,1.0
+exit,Raphael Lacerda,26,25-29,1996-08-29,Brazil,SA,MIBR,CS:GO,1.0
+chelo,Marcelo Cespedes,24,20-24,1998-06-08,Brazil,SA,Imperial Esports,CS:GO,1.0
+hampus,Hampus Poser,24,20-24,1998-11-26,Sweden,EU,Ninjas in Pyjamas,CS:GO,1.0
+Plopski,Nicolas Gonzalez Zamora,20,20-24,2002-05-14,Sweden,EU,Ninjas in Pyjamas,CS:GO,1.0
+Ax1Le,Sergey Rykhtorov,20,20-24,2002-04-29,Russia,EU,Cloud9,CS:GO,1.0
+nafany,Vladislav Gorshkov,21,20-24,2001-06-15,Russia,EU,Cloud9,CS:GO,1.0
+Xeppaa,Erick Bach,22,20-24,2000-07-19,United States,NA,Cloud9,VALORANT,3.18
+faveN,Josef Baumann,22,20-24,2000-02-08,Germany,EU,BIG,CS:GO,1.0
+Calyx,Buğra Arkın,24,20-24,1998-07-27,Turkey,AS,Eternal Fire,CS:GO,1.0
+xfl0ud,Yasin Koç,20,20-24,2002-12-23,Turkey,AS,Eternal Fire,CS:GO,1.0
+chopper,Leonid Vishnyakov,25,25-29,1997-02-04,Russia,EU,Team Spirit,CS:GO,1.0
+Liazz,Jay Tregillgas,25,25-29,1997-08-30,Australia,OC,Grayhound Gaming,CS:GO,1.0
+Jame,Dzhami Ali,24,20-24,1998-08-23,Russia,EU,Outsiders,CS:GO,1.0
+Qikert,Aleksei Golubev,24,20-24,1999-01-01,Kazakhstan,AS,Outsiders,CS:GO,1.0
+FL1T,Evgeny Lebedev,22,20-24,2000-12-20,Russia,EU,Outsiders,CS:GO,1.0
+buster,Timur Tulepov,23,20-24,1999-12-07,Kazakhstan,AS,Virtus.pro,CS:GO,1.0
+Patsi,Robert Isyanov,19,15-19,2003-09-06,Russia,EU,Team Spirit,CS:GO,1.0
+degster,Abdul Gasanov,21,20-24,2001-07-21,Russia,EU,OG Esports,CS:GO,1.0
+magixx,Boris Vorobiev,19,15-19,2003-06-03,Russia,EU,Team Spirit,CS:GO,1.0
+syrsoN,Florian Rische,26,25-29,1996-04-19,Germany,EU,BIG,CS:GO,1.0
+KRIMZ,Freddy Johansson,28,25-29,1994-04-25,Sweden,EU,Fnatic,CS:GO,1.0
+Valde,Valdemar Bjørn Vangså,27,25-29,1995-06-12,Denmark,EU,ENCE,CS:GO,1.0
+MUTiRiS,Christopher Fernandes,30,30-34,1992-12-26,Portugal,EU,SAW,CS:GO,1.0
+AZR,Aaron Ward,30,30-34,1992-10-02,New Zealand,OC,Free Agent,CS:GO,1.0
+afro,Aurélien Drapier,23,20-24,1999-06-11,France,EU,HEET,CS:GO,1.0
+Ex3rcice,Pierre Bulinge,22,20-24,2000-02-04,France,EU,HEET,CS:GO,1.0
+Djoko,Thomas Pavoni,25,25-29,1997-04-16,France,EU,HEET,CS:GO,1.0
+DeathZz,Raúl Jordán Nieto,26,25-29,1996-01-31,Spain,EU,Movistar Riders,CS:GO,1.0
+bubble,Karem Kostadinov,31,30-34,1991-08-07,Bulgaria,EU,Free Agent,CS:GO,1.0
+Gratisfaction,Sean Kaiwai,26,25-29,1996-03-06,New Zealand,OC,Extremum,CS:GO,1.0
+SHiPZ,Georgi Grigorov,22,20-24,2000-08-16,Bulgaria,EU,500,CS:GO,1.0
+Bymas,Aurimas Pipiras,19,15-19,2003-08-12,Lithuania,EU,MOUZ,CS:GO,1.0
+frozen,David Čerňanský ,20,20-24,2002-07-18,Slovakia,EU,MOUZ,CS:GO,1.0
+torzsi,Ádám Torzsás,20,20-24,2002-05-17,Hungary,EU,MOUZ,CS:GO,1.0
+imoRR,Ömer Karataş,23,20-24,1999-12-20,Turkey,AS,Eternal Fire,CS:GO,1.0
+dexter,Chris Nong,28,25-29,1994-08-15,Australia,OC,MOUZ,CS:GO,1.0
+rmn,Ricardo Oliveira,30,30-34,1992-05-14,Portugal,EU,SAW,CS:GO,1.0
+acoR,Frederik Gyldstrand,25,25-29,1997-06-24,Denmark,EU,GamerLegion,CS:GO,1.0
+niko,Nikolaj Kristensen,24,20-24,1998-05-28,Denmark,EU,OG Esports,CS:GO,1.0
+biguzera,Rodrigo Bittencourt,25,25-29,1997-02-18,Brazil,SA,paiN Gaming,CS:GO,1.0
+flameZ,Shahar Shuhan,19,15-19,2003-06-22,Israel,AS,OG Esports,CS:GO,1.0
+oskar,Tomáš Šťastný,31,30-34,1991-06-27,Czechia,EU,SINNERS Esports,CS:GO,1.0
+nexa,Nemanja Isaković,25,25-29,1997-04-25,Serbia,EU,OG Esports,CS:GO,1.0
+mantuu,Mateusz Wilczewski,25,25-29,1997-08-21,Poland,EU,Free Agent,CS:GO,1.0
+NEOFRAG,Adam Zouhar,21,20-24,2001-05-19,Czechia,EU,OG Esports,CS:GO,1.0
+SHOCK,Max Kvapil,22,20-24,2000-10-29,Czechia,EU,SINNERS Esports,CS:GO,1.0
+Lekr0,Jonas Olofsson,29,25-29,1993-07-02,Sweden,EU,Free Agent,CS:GO,1.0
+twist,Simon Eliasson,28,25-29,1994-12-12,Sweden,EU,Finest,CS:GO,1.0
+stadodo,Renato Gonçalves ,26,25-29,1996-11-17,Portugal,EU,For The Win Esports,CS:GO,1.0
+arki,Omar Chakkor,33,30-34,1989-12-07,Spain,EU,SAW,CS:GO,1.0
+JUST,Tiago Moura,26,25-29,1996-04-29,Portugal,EU,SAW,CS:GO,1.0
+hardzao,Wesley Lopes,21,20-24,2001-01-16,Brazil,SA,paiN Gaming,CS:GO,1.0
+Kragie,Phillip Krag,23,20-24,1999-07-21,Denmark,EU,Content Creator,Overwatch,0.3
+Dizzy,Coby Meadows,22,20-24,2000-05-19,United States,NA,Content Creator,VALORANT,3.18
+shinobi,Josh Abastado,28,25-29,1994-06-23,United States,NA,Counter Logic Gaming,VALORANT,3.18
+psalm,Harrison Chang,27,25-29,1995-02-06,United States,NA,The Guard,Apex,1.0
+rpr,Dan Ušić,26,25-29,1996-08-07,Croatia,EU,SCARZ,Apex,1.0
+Nocturnal,Brandon Singer,28,25-29,1994-06-12,United States,NA,XSET,Apex,1.0
+LiNkzr,Jiri Masalin,28,25-29,1994-04-09,Finland,EU,Content Creator,Apex,1.0
+ZmjjKK,Zheng Yongkang,18,15-19,2004-03-03,China,AS,Edward Gaming,VALORANT,3.18
+Wanted,John Lin,24,20-24,1998-04-23,United States,NA,Content Creator,Overwatch,0.3
+dafran,Daniel Francesca,29,25-29,1993-12-27,Denmark,EU,Content Creator,Overwatch,0.3
+ryujehong,Jehong Ryu,31,30-34,1991-09-05,South Korea,AS,Gen.G,Overwatch,0.3
+Saebyeolbe,Jong-Ryeol Park,27,25-29,1995-12-23,South Korea,AS,Content Creator,Overwatch,0.3
+Yuki,Oscar Jiang,27,25-29,1995-11-19,United Kingdom,EU,Alliance,Apex,1.0
+Sleepy,Nikola Andrews,24,20-24,1998-09-16,United States,NA,Content Creator,Overwatch,0.3
+Xepher,Jae-Mo Koo,26,25-29,1996-09-15,South Korea,AS,Free Agent,Overwatch,0.3
+aproto,Alex Protopapas,23,20-24,1999-06-15,United States,NA,Ghost Gaming,VALORANT,3.18
+Klaus,Nicolas Ferrari,21,20-24,2001-04-04,Argentina,SA,KRÜ Esports,VALORANT,3.18
+Sceptic,Griffin Spikoski,18,15-19,2004-04-30,United States,NA,Content Creator,Fortnite,0.25
+Mickie,Pongphop Rattanasangchod,29,25-29,1993-10-28,Thailand,AS,Content Creator,Overwatch,0.3
+xQc,Félix Lengyel,27,25-29,1995-11-12,Canada,NA,Luminosity,Overwatch,0.3
+SEIDER,Mathias Seider,21,20-24,2001-07-10,Denmark,EU,Alliance,VALORANT,3.18
+Russ,Russel Mendes,24,20-24,1998-01-17,United Kingdom,EU,Guild Esports,VALORANT,3.18
+Kamo,Liam Fillery,23,20-24,1999-09-09,Germany,EU,Content Creator,Fortnite,0.25
+dooplex,Ira Shepherd,26,25-29,1996-07-31,United States,NA,OpTic Gaming,Apex,1.0
+Jarvis,Jarvis Khattri,21,20-24,2001-11-11,United Kingdom,EU,Content Creator,Fortnite,0.25
+YukaF,Yuga Horie,19,15-19,2003-08-18,Japan,AS,Fnatic,Apex,1.0
+Lothar,Jakub Szygulski,37,35-39,1985-07-08,Poland,EU,G2 Esports,VALORANT,3.18
+SkittleCakes,William August,23,20-24,1999-05-21,United States,NA,OpTic Gaming,Apex,1.0
+Reet,Nathan Admunson,16,15-19,2006-05-16,United States,NA,TSM,Fortnite,0.25
+Fresh,Harley Campbell,20,20-24,2002-03-04,Australia,OC,Luminosity,Fortnite,0.25
+Megga,Noam Ackenine,18,15-19,2004-10-16,United States,NA,FaZe Clan,Fortnite,0.25
+Emad,Emad Nasif,22,20-24,2000-06-08,United States,NA,Free Agent,Fortnite,0.25
+Dubs,Danny Walsh,20,20-24,2002-11-21,United States,NA,FaZe Clan,Fortnite,0.25
+Cizzorz,John Cizek,26,25-29,1996-04-25,United States,NA,FaZe Clan,Fortnite,0.25
+Thiefs,Nicholas Smorto,26,25-29,1996-05-20,United States,NA,Content Creator,Fortnite,0.25
+POW3R,Giorgio Calandrelli,30,30-34,1992-11-22,Italy,EU,Fnatic,Fortnite,0.25
+Nikof,Nicolas Frejavise,22,20-24,2000-02-04,France,EU,Team Vitality,Fortnite,0.25
+letw1k3,Mark Danilov,17,15-19,2005-04-08,Russia,EU,Gambit,Fortnite,0.25
+Replays,Franco Sicilia,26,25-29,1996-10-17,Canada,NA,FaZe Clan,Fortnite,0.25
+Nate Hill,Nate Hill,28,25-29,1994-08-18,United States,NA,FaZe Clan,Fortnite,0.25
+H1ghsky1,Patrick Bragaru,15,15-19,2007-04-01,United States,NA,FaZe Clan,Fortnite,0.25
+DrLupo,Benjamin Lupo,35,35-39,1987-03-20,United States,NA,Content Creator,Fortnite,0.25
+Gotaga,Corentin Houssein,29,25-29,1993-09-07,France,EU,Team Vitality,Fortnite,0.25
+Avxry,Avery LoPriore,25,25-29,1997-04-22,United States,NA,Content Creator,Fortnite,0.25
+SypherPK,Ali Hassan,26,25-29,1996-05-10,United States,NA,Content Creator,Fortnite,0.25
+Vorwenn,Tom Baldrich Piqué,23,20-24,1999-12-20,Spain,EU,Content Creator,Fortnite,0.25
+Kiryache32,Kirill Grishin,17,15-19,2005-01-30,Russia,EU,Content Creator,Fortnite,0.25
+Teeqzy,Klaivert Dervishi,21,20-24,2001-01-06,Belgium,EU,Content Creator,Fortnite,0.25
+DaZeD,Sam Marine,33,30-34,1989-09-27,United States,NA,Free Agent,VALORANT,3.18
+Derke,Nikita Simitev,19,15-19,2003-02-06,Finland,EU,Fnatic,VALORANT,3.18
+Surf,Thanachart Rungapajaratkul,18,15-19,2004-04-02,Thailand,AS,Xerxia Esports,VALORANT,3.18
+BONECOLD,Santeri Sassi,25,25-29,1997-10-13,Finland,EU,Team Vitality,VALORANT,3.18
+starxo,Patryk Kopczyński,21,20-24,2001-08-28,Poland,EU,Acend,VALORANT,3.18
+Davidp,David Prins,28,25-29,1994-09-08,Belgium,EU,OG Esports,VALORANT,3.18
+seb,Sebastian Bucki,31,30-34,1991-04-15,United States,NA,Free Agent,VALORANT,3.18
+zombs,Jared Gitlin,24,20-24,1998-10-02,United States,NA,Sentinels,VALORANT,3.18
+Myth,Ali Kabbani,23,20-24,1999-05-24,United States,NA,Content Creator,Fortnite,0.25
+Horcus,Salvador Matas Salas,27,25-29,1995-07-16,Spain,EU,Content Creator,VALORANT,3.18
+ec1s,Adam Eccles,22,20-24,2000-06-26,United States,NA,Free Agent,VALORANT,3.18
+Corey,Corey Nigra,23,20-24,1999-05-11,United States,NA,TSM,VALORANT,3.18
+ZachaREEE,Zachary Lombardo,21,20-24,2001-01-27,United States,NA,Akrew,VALORANT,3.18
+aimdll,Hüseyin Kabişteke,21,20-24,2001-05-01,Turkey,AS,BBL Esports,VALORANT,3.18
+paTiTek,Patryk Fabrowski,23,20-24,1999-09-07,Poland,EU,Excel Esports,VALORANT,3.18
+Boaster,Jake Howlett,27,25-29,1995-05-25,United Kingdom,EU,Fnatic,VALORANT,3.18
+Danteh,Dante Cruz,23,20-24,1999-03-24,United States,NA,Overwatch League,Overwatch,0.3
+Pine,Do-Hyeon Kim,25,25-29,1997-10-15,South Korea,AS,Free Agent,Overwatch,0.3
+Fate,Pan-Seung Koo,24,20-24,1998-10-15,South Korea,AS,Overwatch League,Overwatch,0.3
+Profit,Jun-Young Park,23,20-24,1999-11-19,South Korea,AS,Overwatch League,Overwatch,0.3
+EFFECT,Hyeon Hwang,25,25-29,1997-05-16,South Korea,AS,Content Creator,Overwatch,0.3
+Architect,Park Min-ho,22,20-24,2000-02-26,South Korea,AS,Overwatch League,Overwatch,0.3
+Poko,Gael Gouzerch,26,25-29,1996-07-21,France,EU,Overwatch League,Overwatch,0.3
+Harbleu,Anthony Ballo,29,25-29,1993-04-08,United States,NA,Luminosity,Overwatch,0.3
+Striker,Nam-joo Kwon,23,20-24,1999-12-04,South Korea,AS,Overwatch League,Overwatch,0.3
+ANS,Lee Seon-chang,22,20-24,2000-02-04,South Korea,AS,Content Creator,Overwatch,0.3
+Super,Matthew DeLisi,22,20-24,2000-03-28,United States,NA,Content Creator,Overwatch,0.3
+Fury,Jun-Ho Kim,23,20-24,1999-11-25,South Korea,AS,Overwatch League,Overwatch,0.3
+OGE,Min-Seok Son,23,20-24,1999-10-15,South Korea,AS,Overwatch League,Overwatch,0.3
+SPACE,Indy Halpern,22,20-24,2000-03-28,United States,NA,Overwatch League,Overwatch,0.3
+Carpe,Lee Jae-Hyeok,24,20-24,1998-10-14,South Korea,AS,Overwatch League,Overwatch,0.3
+Anamo,Tae-Sung Jung,25,25-29,1997-09-02,South Korea,AS,Overwatch League,Overwatch,0.3
+JJoNaK,Seong-Hyun Bang,23,20-24,1999-12-20,South Korea,AS,Free Agent,Overwatch,0.3
+Fleta,Byung-Sun Kim,23,20-24,1999-09-02,South Korea,AS,Overwatch League,Overwatch,0.3
+Hydration,Joao Pedro Veloso de Goes Telles,24,20-24,1998-03-08,Brazil,SA,Free Agent,Overwatch,0.3
+Nadeshot,Matthew Haag,30,30-34,1992-08-03,United States,NA,100 Thieves,VALORANT,3.18
+Marksman,Nick Overton,31,30-34,1991-06-10,United States,NA,Counter Logic Gaming,Fortnite,0.25
+Hamlinz,Darryle Hamlin,27,25-29,1995-05-23,United States,NA,NRG,Fortnite,0.25
+Daequan,Daequan Loco,28,25-29,1994-05-12,United States,NA,NRG,Fortnite,0.25
+Tilt,Jonathan Derosa,24,20-24,1998-09-02,United States,NA,Free Agent,Fortnite,0.25
+POACH,Jake Brumleve,23,20-24,1999-02-24,United States,NA,FaZe Clan,VALORANT,3.18
+Edgey,Ben Peterson,19,15-19,2003-02-14,United States,NA,Content Creator,Fortnite,0.25
+Zayt,Williams Aubin,22,20-24,2000-03-02,Canada,NA,NRG,Fortnite,0.25
+Aydan,Aydan Conrad,23,20-24,1999-04-25,United States,NA,Content Creator,Fortnite,0.25
+Flikk,Nikolaj Andreas Frøslev,19,15-19,2003-07-04,Denmark,EU,Content Creator,Fortnite,0.25
+Mitr0,Dmitri Van de Vrie,20,20-24,2002-06-06,Netherlands,EU,Free Agent,Fortnite,0.25
+Cented,Evan Barron,21,20-24,2001-11-10,Canada,NA,Free Agent,Fortnite,0.25
+Thwifo,Zander Kim,20,20-24,2002-08-30,United States,NA,Free Agent,VALORANT,3.18
+Ninja,Tyler Blevins,27,25-29,1995-06-05,United States,NA,Content Creator,Fortnite,0.25
+Nickmercs,Nick Kolcheff,32,30-34,1990-11-21,United States,NA,FaZe Clan,Fortnite,0.25
+Sway,Josue Burgos,18,15-19,2004-01-27,United States,NA,FaZe Clan,Fortnite,0.25
+Cloakzy,Dennis Lepore,28,25-29,1994-12-26,United States,NA,Complexity,Call of duty,0.3
+timthetatman,Timothy John Betar,32,30-34,1990-04-08,United States,NA,Content Creator,Call of duty,0.3
+Noko,Christian Feliciano,29,25-29,1993-05-12,United States,NA,Content Creator,Apex,1.0
+Hardecki,Konstantin Kozlov,19,15-19,2003-02-02,Russia,EU,Free Agent,Apex,1.0
+Flanker,Thomas Cook,24,20-24,1998-07-03,United States,NA,Team Liquid,Apex,1.0
+Shiv,Shivam Patel,24,20-24,1998-05-11,United Kingdom,EU,Luminosity,Apex,1.0
+Diegosaurs,Diego Navarrette,26,25-29,1996-08-08,United States,NA,Content Creator,Apex,1.0
+Sweet,Christopher Sexton,23,20-24,1999-07-02,United States,NA,NRG,Apex,1.0
+stormen,Ludvig Storm,29,25-29,1993-03-02,Sweden,EU,Content Creator,Apex,1.0
+Mande,Mikkel Hestbek,25,25-29,1997-08-11,Denmark,EU,Free Agent,Apex,1.0
+Mendo,Lucas Håkansson,24,20-24,1998-04-15,Sweden,EU,Team Liquid,VALORANT,3.18
+Reps,Jordan Wolfe,27,25-29,1995-04-23,United States,NA,TSM,Apex,1.0
+Albralelie,Mac Beckwith,22,20-24,2000-09-13,United States,NA,TSM,Apex,1.0
+Snip3down,Eric Wrona,31,30-34,1991-05-03,United States,NA,FaZe Clan,Apex,1.0
+rocker,Aidan Grodin,19,15-19,2003-09-08,United States,NA,Cloud9,Apex,1.0
+nafen,Nathan Nguyen,21,20-24,2001-10-17,United States,NA,NRG,Apex,1.0
+Seagull,Brandon Larned,30,30-34,1992-07-23,United States,NA,Content Creator,Overwatch,0.3
+Dropped,Mark Thees,23,20-24,1999-08-31,United States,NA,Spacestation Gaming,Apex,1.0
+9impulse,Kirill Kostiv,23,20-24,1999-10-31,Belarus,EU,Fire Beavers,Apex,1.0
+Huskerrs,Jordan Thomas,27,25-29,1995-10-04,United States,NA,Luminosity,Call of duty,0.3
+Queasy,Aleksa Cvetkovic,20,20-24,2002-04-17,Serbia,EU,Content Creator,Fortnite,0.25
+Aspect,Nicholas McGuire,20,20-24,2002-10-02,United States,NA,Content Creator,Fortnite,0.25
+Dakotaz,Brett Hoffman,36,35-39,1986-07-12,United States,NA,Content Creator,Fortnite,0.25
+Chapix,Moussa Faour,18,15-19,2004-06-04,Sweden,EU,Falcons Esports,Fortnite,0.25
+Vadeal,Alexander Schlik,17,15-19,2005-01-11,Germany,EU,Wave Esports,Fortnite,0.25
+volx,unknown,19,15-19,2003-02-15,Australia,OC,JFT Esports,Fortnite,0.25
+LOLiTO FDEZ,Manuel Fernandez,32,30-34,1990-08-13,Spain,EU,Giants,Fortnite,0.25
+DrDisRespect,Herschel Beahm IV,40,40-44,1982-03-10,United States,NA,Content Creator,Call of duty,0.3
+Andilex,Alexandre Cristophe,19,15-19,2003-01-31,France,EU,Falcons Esports,Fortnite,0.25
+Clix,Cody Conrod,17,15-19,2005-01-07,United States,NA,NRG,Fortnite,0.25
+Mongraal,Kyle Jackson,18,15-19,2004-08-13,United Kingdom,EU,FaZe Clan,Fortnite,0.25
+Crust,Nicholas Kell,20,20-24,2002-07-09,Canada,NA,Sentinels,Apex,1.0
+Hakis,John Håkansson,27,25-29,1995-06-26,Sweden,EU,Alliance,Apex,1.0
+Monsoon,Bowen Fuller,24,20-24,1998-08-01,United States,NA,Complexity,Apex,1.0
+Zachmazer,Zach Mazer,22,20-24,2000-03-15,United States,NA,Content Creator,Apex,1.0
+Ado,Gihyeon Chon,23,20-24,1999-11-16,South Korea,AS,Free Agent,Overwatch,0.3
+Kalios,WooYul Shin,24,20-24,1998-11-09,South Korea,AS,Overwatch League,Overwatch,0.3
