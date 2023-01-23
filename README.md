@@ -37,6 +37,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Data Visualization
 
+- [ ] Prosetting.net player data visualization using pivot chart
 - [ ] Top 3 product brought quantity using matplotlib
 - [ ] Rotten Tomatoes Top movies using Tableau
 
