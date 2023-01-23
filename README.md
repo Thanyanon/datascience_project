@@ -1,4 +1,4 @@
-# Datascience Project
+# Data Science Project
 
 ## Personal Information
 
@@ -37,7 +37,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Data Visualization
 
-- [ ] Prosetting.net player data visualization using pivot chart
+- [ ] [Prosetting.net player data visualization using pivot chart](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
 - [ ] Top 3 product brought quantity using matplotlib
 - [ ] Rotten Tomatoes Top movies using Tableau
 
