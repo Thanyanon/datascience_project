@@ -47,8 +47,8 @@ My name is Thanyanon(Non),a 26 years ex Electrical engineer who's passionate in 
 
 ### Intro to Python Programming
 
-- [ ] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
-- [ ] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
+- [x] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
+- [x] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
 - [ ] Bigram of students name and surname
 
 ### Essential Python for Data Analyst
