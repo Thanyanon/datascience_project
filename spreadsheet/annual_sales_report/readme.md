@@ -92,8 +92,6 @@ process การสร้าง dimension table
 
 สร้าง pivot table เพื่อดู insight จากข้อมูลตามโจทย์ที่ user ต้องการ โดยตัวอย่างข้อมูลที่สำคัญที่พบคือ
 
-![pivot_product_sales](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_product_sales.png)
-
 - กลุ่มลูกค้าที่เป็น SI และ Trader มีแนวโน้มที่จะซื้อ product เพียงแค่ชนิดเดียว
 - ลูกค้าที่เป็น end user แบ่งออกเป็น 2 กลุ่มคือ กลุ่มที่ให้บริษัททำทั้ง solution ให้ และกลุ่มที่ซื้อเพียงแต่ของไปทำเอง
 
