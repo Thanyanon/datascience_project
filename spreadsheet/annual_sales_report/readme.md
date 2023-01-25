@@ -13,7 +13,15 @@
 ![prep_data](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/prep_data.png)
 ![customer](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/customer_sale.png)
 
-### Clean data และทำความเข้าใจกับ user เกี่ยวกับ data ที่มีอยู่ เช่น
+### Understanding User requirement
+
+**Requirement**
+
+  - user ต้องการสร้าง dashboard เพื่อนำไปประกอบการนำเสนอตอนประชุม sales meeting
+  - สอบถามเรื่อง data พบว่า user ไม่มี database และ CRM platfrom จึงเสนอให้เริ่มจากทำผ่าน excel เนื่องจากจำนวนข้อมูลยังไม่เยอะ โดยจะใช้ data model เป็นตัวช่วย
+  - ทำ data analysis เบื้องต้นจาก data ที่มีอยู่ด้วย pivot table เพื่อดูว่าเราจะพบ insight อะไรได้บ้าง
+
+**Data**
 
   - Missing data ที่หายไปเกิดจากอะไร ทำไมถึงไม่ได้ใส่
   - สีที่อยู่ในแต่ละ row หมายความว่าอะไร
