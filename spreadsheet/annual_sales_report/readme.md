@@ -1,4 +1,4 @@
-# Anual sales data from "xxx" company
+# Annual Sales Analysis and Dashboard from xxCompany Data Using a Pivot Table and a Pivot Chart 
 
 เป็น project ที่ใช้ data จริงซึ่งเป็น annual sales ของบริษัทแห่งนึง ที่ต้องทำข้อมูลสรุปรายงานการขายประจำปีและประจำเดือนทุกครั้ง โดยผู้เขียนขอเข้าไปช่วยให้ความรู้และทำให้การใส่ข้อมูลเป็นระบบมากขึ้น รวมถึงสามารถ "pivot" ข้อมูลเพื่อดู insight และสร้าง dashboard ที่สามารถเลือกดูข้อมูลตามที่ต้องการได้
 
