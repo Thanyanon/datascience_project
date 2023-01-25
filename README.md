@@ -21,7 +21,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ## _Top project_
 
-- [**Most Popular Gaming Mouse From FPS Esport Player**](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
+- [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
 - [Realworld usecase Annual Sales analysis and dashboard from xxCompany data using Pivot table and Pivot chart](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
 - [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
