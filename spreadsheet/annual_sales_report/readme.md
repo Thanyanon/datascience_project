@@ -10,7 +10,7 @@
 
 **To this**
 
-![prep_data](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/prep_data.png)
+![prep_data](https://raw.githubusercontent.com/Thanyanon/datascience_project/main/spreadsheet/annual_sales_report/prep_data.png)
 
 ### Clean data และทำความเข้าใจกับ user เกี่ยวกับ data ที่มีอยู่ เช่น
 
@@ -49,7 +49,7 @@
 process การสร้าง dimension table
 
   - use `unique()` to get all unique product or customers data from fact table
-	- create id column
+  - create id column
   - Insert "type" column
 
 **Product Dimension Table**
@@ -65,4 +65,4 @@ process การสร้าง dimension table
 
 ![prep_data](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/prep_data.png)
 
-  
+### Create a 
