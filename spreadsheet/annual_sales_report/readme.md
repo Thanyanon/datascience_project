@@ -105,25 +105,25 @@ process การสร้าง dimension table
 
 ### Solution สำหรับกลุ่มลูกค้าที่เป็น SI
 
-![si](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_si.png)
-
 SI คือลูกค้าที่เป็น maker ซื้อของไปประกอบเป็น solution โดยซื้อกล้องเป็นอัตราส่วนที่สูงที่สุด ตามมาด้วย software เป็นอันดับที่ 2 ซึ่งอาจจะเป็นเพราะราคาทีแข่งขันได้ของกล้อง และคุณสัมบัติพิเศษของ software ที่เป็นจุดแข็ง แต่ส่วนประกอบอื่นๆเช่น lens หรือ lighting ลูกค้าอาจจะซื้อจากคู่แข่งที่ถูกกว่า โดย solution ที่เสนอแบ่งเป็น 3 กรณี
 
 1. ในกรณีที่วิเคราะห์แล้วว่าลูกค้าต้องการใช้คุณสมบัติพิเศษของกล้องร่วมกับ software จริงๆ อาจจะเสนอเป็น package รวมทั้งชุดกับลูกค้ากลุ่มนี้ เพื่อเพิ่มยอดขายของ lens และ lighting
 2. ลูกค้าซื้อเพียงแต่กล้อง อาจจะหมายความว่าลูกค้ามีความสามารถในการทำ software เอง ให้เพิ่มส่วนลดของ lens และ lighting เพื่อเพิ่มโอกาสในการขาย lens และ lighting
 3. กรณีที่ลูกค้าซื้อเพียงแต่ software แปลว่ามีกล้องอยู่แล้ว อาจจะเสนอ solution กล้องตัวใหม่ที่มีคุณสมบัติที่ดีกว่าไปกับ software เพื่อเพิ่มโอกาสในการขายกล้อง
 
-### Solution สำหรับกลุ่มลูกค้าที่เป็น trader
+![si](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_si.png)
 
-![trader](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_trader.png)
+### Solution สำหรับกลุ่มลูกค้าที่เป็น trader
 
 จากข้อมูลพบว่า Trader มีการซื้อ lens ของเราเป็นอัตราส่วนที่สูงที่สุด ซึ่งส่วนใหญ่แล้วลูกค้าในกลุ่มนี้อาจจะแข่งขันด้านราคาเป็นหลัก ทำให้พบว่า lens ของเราสามารถแข่งขันด้านราคาได้ จึงเสนอให้ทำ catalog lens พร้อมกับส่วนลดแบบขั้นบันไดตามจำนวนการสั่งซื้อไปให้กับลูกค้าในกลุ่มที่เป็น trader ทั้งลูกค้าเก่าและใหม่
 
+![trader](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_trader.png)
+
 ### Solution สำหรับกลุ่มลูกค้าที่เป็น end user
 
-![enduser](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_enduser.png)
+กลุ่มที่ซื้อของไปทำเองเป็นกลุ่มลูกค้าที่ควรเพิ่มมากที่สุดของบริษัท เพราะซื้อของหลากหลายและไม่ต้องการ support เท่ากับกลุ่มที่ต้องการให้ทำให้ทั้ง solution อาจจะแนะนำให้ศึกษาลักษณะของลูกค้ากลุ่มนี้และให้ sale เข้าไปนำเสนอสินค้าของบริษัทกับลูกค้าทีมีลักษณะใกล้กัน
 
-- กลุ่มที่ซื้อของไปทำเองเป็นกลุ่มลูกค้าที่ควรเพิ่มมากที่สุดของบริษัท เพราะซื้อของหลากหลายและไม่ต้องการ support เท่ากับกลุ่มที่ต้องการให้ทำให้ทั้ง solution อาจจะแนะนำให้ศึกษาลักษณะของลูกค้ากลุ่มนี้และให้ sale เข้าไปนำเสนอสินค้าของบริษัทกับลูกค้าทีมีลักษณะใกล้กัน
+![enduser](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/pivot_enduser.png)
 
 ## Create a dashboard
 
