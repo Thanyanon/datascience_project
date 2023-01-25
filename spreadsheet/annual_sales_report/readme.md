@@ -61,7 +61,7 @@ process การสร้าง dimension table
   - create id column
   - Insert "type" column
 
-**Product Dimension Table**
+**Example of dimension table :Product Dimension Table**
 
 ![product_dimension](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/product_dimension.png)
 
