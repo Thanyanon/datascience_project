@@ -25,7 +25,7 @@
 
 **Requirement**
 
-  - user ต้องการสร้าง dashboard เพื่อนำไปประกอบการนำเสนอตอนประชุม sales meeting
+  - User ต้องการสร้าง dashboard เพื่อนำไปประกอบการนำเสนอตอนประชุม sales meeting
   - สอบถามเรื่อง data พบว่า user ไม่มี database และ CRM platfrom จึงเสนอให้เริ่มจากทำผ่าน excel เนื่องจากจำนวนข้อมูลยังไม่เยอะ โดยจะใช้ data model เป็นตัวช่วย
   - ทำ data analysis เบื้องต้นจาก data ที่มีอยู่ด้วย pivot table เพื่อดูว่าเราจะพบ insight อะไรได้บ้าง
 
@@ -37,7 +37,7 @@
 พบว่า
 
   - Date column: cell ที่ว่างอยู่หมายถึง date เดียวกัน
-  - Product column: 1 rows มี Qty ของ product ชนิดนั้นมากกว่า 1 Qty โดยไม่สามารถรวมเป็น 3 Qty ได้ เพราะว่าวันที่ส่งของของแต่ละตัวอาจจะไม่ตรงกัน
+  - Product column: 1 rows มี Qty ของ product ชนิดนั้นมากกว่า 1 Qty โดยไม่สามารถรวม Qty เข้าด้วยกันได้ เพราะว่าวันที่ส่งของของแต่ละตัวอาจจะไม่ตรงกัน
   
 ## Clean the data
 
