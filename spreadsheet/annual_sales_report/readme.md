@@ -11,6 +11,7 @@
 **To this**
 
 ![prep_data](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/prep_data.png)
+![customer](https://github.com/Thanyanon/datascience_project/blob/main/spreadsheet/annual_sales_report/customer_sale.png)
 
 ### Clean data และทำความเข้าใจกับ user เกี่ยวกับ data ที่มีอยู่ เช่น
 
