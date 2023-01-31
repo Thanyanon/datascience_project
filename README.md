@@ -65,4 +65,4 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Dashboard
 
-- [ ] Annual sales report simple dashboard in excel
+- [x] Annual sales report simple dashboard in excel[https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report]
