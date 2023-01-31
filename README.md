@@ -23,7 +23,8 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 - [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
 - [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a Pivot Table and a Pivot Chart](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
-- [The data master participant clustering](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
+- [The data master participant clustering using pycaret](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
+- [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
 ## List of skill
 
@@ -55,14 +56,14 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 ### Essential Python for Data Analyst
 
 - [ ] Healthy food sales increase recommendations
-- [x] [Rotten tomatoes movies reviews data cleaning](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes.ipynb)
+- [x] [Rotten tomatoes movies reviews data preparation](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes.ipynb)
 - [x] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
 
 ### Machine Learning
 
 - [x] [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
-- [x] [The data master participant clustering](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
+- [x] [The data master participant clustering using pycaret](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
 
 ### Dashboard
 
-- [x] Annual sales report simple dashboard in excel[https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report]
+- [x] Annual sales report simple dashboard in excel(https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
