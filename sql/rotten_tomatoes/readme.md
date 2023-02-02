@@ -5,9 +5,9 @@
 
 ## Finding
   
-  1. หนังที่ทำรายได้สูงสุด 5 อันดับแรก
+  1. หนังที่ทำรายได้สูงสุด 10 อันดับแรก
   2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรก
-  3. หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดูและรายได้เฉลี่ย
+  3. รายได้เฉลี่ยของหนังที่นักวิจารณ์ชอบมากกว่า vs คนดูชอบมากกว่า
   4. ผู้กำกับที่ทำเงินได้มากที่สุด 5 อันดับแรก
   5. จำนวนหนังแบ่งตามประเภท
   6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับแรก
@@ -31,7 +31,7 @@
   10. สร้าง temp table เพื่อเก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
   11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
 
-### หนังที่ทำรายได้สูงสุด 5 อันดับแรก
+### 1. หนังที่ทำรายได้สูงสุด 10 อันดับแรก
 
 ``` SQL
 -- Top 10 movies with highest gross
@@ -49,7 +49,7 @@ LIMIT 10
 ```
 ![top10_movies_gross](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_movies_gross.png)
 
-## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรกคือ
+### 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรก
 
 ```SQL
 -- Top 5 movies with highest critic_score and people_score
@@ -65,11 +65,12 @@ FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 ORDER BY critic_score DESC, people_score DESC
 LIMIT 5
 ```
-
 ![top5_score](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_score.png)
   
 
-## 3. หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดู
+### 3. รายได้เฉลี่ยของหนังที่นักวิจารณ์ชอบมากกว่า vs คนดูชอบมากกว่า
+
+**หนังที่นักวิจารณ์ชอบมากกว่าคนดู**
 
 ```SQL
 -- Number and average gross of movies which people score > critic_score
@@ -80,7 +81,9 @@ SELECT
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 WHERE people_score - critic_score > 0 AND gross_usa IS NOT NULL
 ```
-![]()
+![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_cmp.png)
+
+**หนังที่คนดูชอบมากกว่านักวิจารณ์**
 
 ```SQL
 -- Number and average gross of movies which critic_score > people score
@@ -91,46 +94,29 @@ SELECT
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 WHERE critic_score - people_score > 0 AND gross_usa IS NOT NULL
 ```
+![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_pmc.png)
 
-  
+### 4. ผู้กำกับที่ทำเงินได้มากที่สุด 5 อันดับแรก
 
-## 4. ผู้กำกับที่ทำเงินได้มากที่สุด 5 อันดับแรก
-
-  
-
+```SQL
 -- Find performance of each producer
 
-/*
-
 SELECT
-
   DISTINCT(director) AS unique_director,
-
   COUNT(title) AS num_movies,
-
   ROUND(AVG(critic_score), 2) AS avg_critic_score,
-
   ROUND(AVG(people_score), 2) AS avg_people_score,
-
   ROUND(SUM(gross_usa)) AS total_gross,
-
   ROUND(AVG(gross_usa)) AS avg_gross,
-
   ROUND(MAX(gross_usa)) AS max_gross
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
 GROUP BY unique_director
-
 ORDER BY total_gross DESC
-
 LIMIT 5;
+```
+![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_producer.png)
 
-*/
-
-  
-
-## 5. มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถเป็นได้มากกว่าหนึ่งประเภท โดย ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
+## มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถเป็นได้มากกว่าหนึ่งประเภท โดย ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
 
 ## 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับคือ gay and lesbian, crime, other, documentary และ animation ตามลำดับ
 
