@@ -47,7 +47,7 @@ FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 ORDER BY gross_usa DESC
 LIMIT 5
 ```
- 
+![top10_movies_gross](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_movies_gross.png)
 
 ## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรกคือ
 
