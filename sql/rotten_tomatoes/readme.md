@@ -205,7 +205,7 @@ ORDER BY year DESC
 
 ### 10. สร้าง virtual table ที่เก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
 
-- สร้าง 
+สร้าง virtual table ด้วย VIEW เพื่อเก็บข้อมูลของหนังที่ได้คะแนนนักวิจารณ์สูงสุดของแต่ละปี โดยในแต่ละปีอาจจะมีหนังที่ได้คะแนนสูงสุดเท่ากันหลายเรื่อง
 
 ```SQL
 -- Create virtual table named top_movies contain data of movies which have highest score in each year
@@ -227,7 +227,9 @@ ON movies.year = max_scores.year_max
 AND movies.critic_score = max_scores.max_critic_score
 ```
 
-## 11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
+### 11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนังประเภท?
+
+หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
 
 ```
 WITH sub AS (
