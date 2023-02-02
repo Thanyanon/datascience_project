@@ -70,6 +70,9 @@ LIMIT 5
 
 ### 3. รายได้เฉลี่ยของหนังที่นักวิจารณ์ชอบมากกว่า vs คนดูชอบมากกว่า
 
+- หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดูมีประมาณ 600 เรื่อง ซึ่งมากกว่าหนังที่คะแนนคนดูมากกว่าคะแนนนักวิจารณ์ที่ 90 เรื่องอยู่เกือบ 6 เท่า 
+- แต่หนังที่คนดูให้คะแนนมากกว่านักวิจารณ์ทำรายได้เฉลี่ยอยู่ที่ประมาณ 70,000,000 เหรียญ ซึ่งมากกว่าหนังที่นักวิจารณ์ให้คะแนนมากกว่าที่ 50,000,000 เหรียญอยู่ 40%
+
 **หนังที่นักวิจารณ์ชอบมากกว่าคนดู**
 
 ```SQL
@@ -118,7 +121,9 @@ LIMIT 5;
 
 ### 5. ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
 
-เนื่องจาก
+- หนังหนึ่งเรื่องสามารถมีประเภทของหนังหรือ genre ได้มากกว่า 1 ประเภท
+- ใช้ SPLIT เพื่อแยกประเภทของหนังจากคอลัมน์ genre ออกมาด้วย delimiter ' ,' เพื่อให้ได้ column ใหม่ที่เป็น array
+- ใช้ UNNEST เพื่อทำให้ data ของเรากลายเป็น long format เพื่อให้ aggregate ค่าได้ตามที่ต้องการ 
 
 ```SQL
 -- See number of movies, average critic score, people score and gross in each movies genre
@@ -148,181 +153,100 @@ ORDER BY num_movies DESC
 ```
 
 >[!note]
->มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถเป็นได้มากกว่าหนึ่งประเภท
+>มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถมีประเภทของหนังได้มากกว่าหนึ่งประเภท
 
-[top10_genre_nummovie](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_genre_nummovie.png)
+![top10_genre_nummovie](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_genre_nummovie.png)
 
-### 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับคือ gay and lesbian, crime, other, documentary และ animation ตามลำดับ
+### 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับ
+
+ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับคือ gay and lesbian, crime, other, documentary และ animation ตามลำดับ
 
 ![top5_genre_criticscore](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_genre_criticscore.png)
 
-### 7. ส่วนประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับคือ other, war, anime, crime และ musical
+### 7. ประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับ
+
+ประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับคือ other, war, anime, crime และ musical
 
 ![top5_genre_peoplescore](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_genre_peoplescore.png)
 
-### 8. ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับคือ action, adventure, sci fi, fantasy และ kids and family
+### 8. ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับ
+
+ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับคือ action, adventure, sci fi, fantasy และ kids and family
 
 ![top5_gross_genre](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_gross_genre.png)
 
-  
+### 9. จำนวนหนังทีได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
+
 ```SQL
--- See number of movies, average critic score, people score and gross in each movies genre
-  -- Split genre which is a multiple value string with comma seperated to array using SPLIT
-  -- Using UNNEST to seperated the genre array to get a long format of data
-
-WITH sub AS (
-  SELECT
-    title,
-    critic_score,
-    people_score,
-    gross_usa,
-    SPLIT(genre, ", ") AS dis_genre
-  FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-)
-
-SELECT
-  DISTINCT(genre) as unique_genre,
-  COUNT(title) as num_movies,
-  ROUND(AVG(critic_score), 2) as avg_critic_score,
-  ROUND(AVG(people_score), 2) as avg_people_score,
-  ROUND(AVG(gross_usa)) as avg_gross
-FROM sub,
-UNNEST(dis_genre) as genre
-GROUP BY genre
-ORDER BY num_movies DESC
-```
-
-
-## 9. จำนวนหนังทีได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
-
-  
-
 -- Select max critic score from each year and number of movies which having max critic score
-
   -- Use CTE to create a max critic score in each year
-
   -- Filter fact table with max critic score of each year by using join
-
   -- Count number of top movies in each year
 
-/*
-
 WITH max_scores AS (
-
   SELECT
-
     year,
-
     MAX(critic_score) AS max_critic_score,
-
   FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies` as movies
-
   GROUP BY year
-
 )
 
 SELECT
-
   movies.year AS year,
-
   COUNT(*) AS num_top_movies
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies` as movies
-
 JOIN max_scores
-
 ON movies.year = max_scores.year
-
 AND movies.critic_score = max_scores.max_critic_score
-
 GROUP BY year
-
 ORDER BY year DESC
+```
+![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/number_topmovies_eachyear.png)
 
-*/
+### 10. สร้าง virtual table ที่เก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
 
-  
+- สร้าง 
 
-## 10. สร้าง View ที่เก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
-
-  
-
-## Create virtual table named top_movies contain data of movies which have highest score in each year
-
-/*
+```SQL
+-- Create virtual table named top_movies contain data of movies which have highest score in each year
 
 CREATE VIEW `studied-triode-356514.rotten_tomatoes.top_movies` 
-
 AS
-
   WITH max_scores AS (
-
     SELECT 
-
       year AS year_max,
-
       MAX(critic_score) AS max_critic_score
-
     FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies` AS movies
-
     GROUP BY year_max
-
   )
-
 SELECT
-
   *
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies` AS movies
-
 JOIN max_scores
-
 ON movies.year = max_scores.year_max
-
 AND movies.critic_score = max_scores.max_critic_score
-
-*/
-
-  
+```
 
 ## 11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
 
-/*
-
+```
 WITH sub AS (
-
   SELECT
-
     title,
-
     year,
-
     critic_score,
-
     people_score,
-
     gross_usa,
-
     SPLIT(genre, ', ') as ar_genre
-
   FROM `studied-triode-356514.rotten_tomatoes.top_movies`
-
 )
 
-  
-
 SELECT
-
   genre,
-
   COUNT(title) AS num_movies
-
 FROM sub,
-
 UNNEST(ar_genre) AS genre
-
 GROUP BY genre
-
 ORDER BY num_movies DESC
-
-*/
+```
+![topmovies_genre_count](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/topmovies_genre_count.png)
