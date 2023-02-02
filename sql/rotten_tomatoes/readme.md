@@ -34,7 +34,7 @@
 ### หนังที่ทำรายได้สูงสุด 5 อันดับแรก
 
 ``` SQL
--- Top 5 movies with highest gross
+-- Top 10 movies with highest gross
 
 SELECT
   title,
@@ -45,81 +45,52 @@ SELECT
   gross_usa
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 ORDER BY gross_usa DESC
-LIMIT 5
+LIMIT 10
 ```
 ![top10_movies_gross](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_movies_gross.png)
 
 ## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรกคือ
 
-  
-
+```SQL
 -- Top 5 movies with highest critic_score and people_score
 
-/*
-
 SELECT
-
   title,
-
   year,
-
   genre,
-
   critic_score,
-
   people_score,
-
   gross_usa
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
 ORDER BY critic_score DESC, people_score DESC
-
 LIMIT 5
+```
 
-*/
-
+![top5_score](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_score.png)
   
 
-## 3. หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดูมีประมาณ 600 เรื่อง ซึ่งมากกว่าหนังที่คะแนนคนดูมากกว่าคะแนนนักวิจารณ์ที่ 90 เรื่องอยู่ 10 เท่า
+## 3. หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดู
 
-##    แต่หนังที่คนดูให้คะแนนมากกว่านักวิจารณ์ทำรายได้เฉลี่ยอยู่ที่ประมาณ 70,000,000 เหรียญ ซึ่งมากกว่าหนังที่นักวิจารณ์ให้คะแนนมากกว่าที่ 50,000,000 เหรียญอยู่ 40%
-
-  
-
+```SQL
 -- Number and average gross of movies which people score > critic_score
 
-/*
-
 SELECT
-
   COUNT(title) AS num_movies,
-
   ROUND(AVG(gross_usa)) AS avg_gross
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
 WHERE people_score - critic_score > 0 AND gross_usa IS NOT NULL
+```
+![]()
 
-*/
-
-  
-
+```SQL
 -- Number and average gross of movies which critic_score > people score
 
-/*
-
 SELECT
-
   COUNT(title) AS num_movies,
-
   ROUND(AVG(gross_usa)) AS avg_gross
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
 WHERE critic_score - people_score > 0 AND gross_usa IS NOT NULL
-
-*/
+```
 
   
 
