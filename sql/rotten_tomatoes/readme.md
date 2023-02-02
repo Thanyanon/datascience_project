@@ -31,80 +31,26 @@
   10. สร้าง temp table เพื่อเก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
   11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
 
-  
-```SQL
--- Count all number of movies in each year
+### หนังที่ทำรายได้สูงสุด 5 อันดับแรก
 
-SELECT 
-
-  COUNT(DISTINCT title) AS num_movies,
-
-  year
-
-FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
-GROUP BY year
-
-ORDER BY num_movies DESC
-
-LIMIT 10;
 ```
-
-  
-
--- Average critic score and people score in each year
-
-/*
-
-SELECT
-
-  year,
-
-  ROUND(AVG(critic_score),1) AS avg_critic_score,
-
-  ROUND(AVG(people_score),1) AS avg_people_score
-
-FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
-GROUP BY year
-
-ORDER BY year DESC
-
-*/
-
-  
-
-## 1. หนังที่ทำรายได้สูงสุด 5 อันดับแรกคือ
-
-  
-
 -- Top 5 movies with highest gross
 
 /*
 
 SELECT
-
   title,
-
   year,
-
   genre,
-
   critic_score,
-
   people_score,
-
   gross_usa
-
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
 ORDER BY gross_usa DESC
-
 LIMIT 5
-
 */
-
-  
+```
+ 
 
 ## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรกคือ
 
