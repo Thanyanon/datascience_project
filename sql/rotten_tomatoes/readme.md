@@ -19,7 +19,7 @@
   10. สร้าง temp table เพื่อเก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
   11. ประเภทของหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
 
-### 1. หนังที่ทำรายได้สูงสุด 10 อันดับแรก
+## 1. หนังที่ทำรายได้สูงสุด 10 อันดับแรก
 
 ``` SQL
 -- Top 10 movies with highest gross
@@ -37,7 +37,8 @@ LIMIT 10
 ```
 ![top10_movies_gross](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_movies_gross.png)
 
-### 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรก
+
+## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรก
 
 ```SQL
 -- Top 5 movies with highest critic_score and people_score
@@ -55,8 +56,8 @@ LIMIT 5
 ```
 ![top5_score](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_score.png)
   
-
-### 3. รายได้เฉลี่ยของหนังที่นักวิจารณ์ชอบมากกว่า vs คนดูชอบมากกว่า
+  
+## 3. รายได้เฉลี่ยของหนังที่นักวิจารณ์ชอบมากกว่า vs คนดูชอบมากกว่า
 
 - หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดูมีประมาณ 600 เรื่อง ซึ่งมากกว่าหนังที่คะแนนคนดูมากกว่าคะแนนนักวิจารณ์ที่ 90 เรื่องอยู่เกือบ 6 เท่า 
 - แต่หนังที่คนดูให้คะแนนมากกว่านักวิจารณ์ทำรายได้เฉลี่ยอยู่ที่ประมาณ 70,000,000 เหรียญ ซึ่งมากกว่าหนังที่นักวิจารณ์ให้คะแนนมากกว่าที่ 50,000,000 เหรียญอยู่ 40%
@@ -87,7 +88,8 @@ WHERE critic_score - people_score > 0 AND gross_usa IS NOT NULL
 ```
 ![avg_gross_pmc](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_pmc.png)
 
-### 4. ผู้กำกับที่ทำเงินได้มากที่สุด 5 อันดับแรก
+
+## 4. ผู้กำกับที่ทำเงินได้มากที่สุด 5 อันดับแรก
 
 ```SQL
 -- Find performance of each producer
@@ -107,7 +109,8 @@ LIMIT 5;
 ```
 ![top5_producer](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_producer.png)
 
-### 5. ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
+
+## 5. ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
 
 - หนังหนึ่งเรื่องสามารถมีประเภทของหนังหรือ genre ได้มากกว่า 1 ประเภท
 - ใช้ SPLIT เพื่อแยกประเภทของหนังจากคอลัมน์ genre ออกมาด้วย delimiter ' ,' เพื่อให้ได้ column ใหม่ที่เป็น array
@@ -145,25 +148,29 @@ ORDER BY num_movies DESC
 
 ![top10_genre_nummovie](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_genre_nummovie.png)
 
-### 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับ
+
+## 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับ
 
 ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับคือ gay and lesbian, crime, other, documentary และ animation ตามลำดับ
 
 ![top5_genre_criticscore](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_genre_criticscore.png)
 
-### 7. ประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับ
+
+## 7. ประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับ
 
 ประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับคือ other, war, anime, crime และ musical
 
 ![top5_genre_peoplescore](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_genre_peoplescore.png)
 
-### 8. ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับ
+
+## 8. ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับ
 
 ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับคือ action, adventure, sci fi, fantasy และ kids and family
 
 ![top5_gross_genre](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_gross_genre.png)
 
-### 9. จำนวนหนังทีได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
+
+## 9. จำนวนหนังทีได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
 
 ```SQL
 -- Select max critic score from each year and number of movies which having max critic score
@@ -191,7 +198,8 @@ ORDER BY year DESC
 ```
 ![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/number_topmovies_eachyear.png)
 
-### 10. สร้าง virtual table ที่เก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
+
+## 10. สร้าง virtual table ที่เก็บข้อมูลเฉพาะหนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
 
 สร้าง virtual table ด้วย VIEW เพื่อเก็บข้อมูลของหนังที่ได้คะแนนนักวิจารณ์สูงสุดของแต่ละปี โดยในแต่ละปีอาจจะมีหนังที่ได้คะแนนสูงสุดเท่ากันหลายเรื่อง
 
@@ -215,7 +223,7 @@ ON movies.year = max_scores.year_max
 AND movies.critic_score = max_scores.max_critic_score
 ```
 
-### 11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนังประเภท?
+## 11. หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนังประเภท?
 
 หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
 
