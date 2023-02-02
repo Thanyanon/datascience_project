@@ -145,8 +145,7 @@ GROUP BY genre
 ORDER BY num_movies DESC
 ```
 
->[!note]
->มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถมีประเภทของหนังได้มากกว่าหนึ่งประเภท
+> มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถมีประเภทของหนังได้มากกว่าหนึ่งประเภท
 
 ![top10_genre_nummovie](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_genre_nummovie.png)
 
