@@ -36,8 +36,6 @@
 ``` SQL
 -- Top 5 movies with highest gross
 
-/*
-
 SELECT
   title,
   year,
@@ -48,7 +46,6 @@ SELECT
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 ORDER BY gross_usa DESC
 LIMIT 5
-*/
 ```
  
 
