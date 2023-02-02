@@ -81,7 +81,7 @@ SELECT
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 WHERE people_score - critic_score > 0 AND gross_usa IS NOT NULL
 ```
-![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_cmp.png)
+![avg_gross_cmp](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_cmp.png)
 
 **หนังที่คนดูชอบมากกว่านักวิจารณ์**
 
@@ -94,7 +94,7 @@ SELECT
 FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
 WHERE critic_score - people_score > 0 AND gross_usa IS NOT NULL
 ```
-![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_pmc.png)
+![avg_gross_pmc](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_pmc.png)
 
 ### 4. ผู้กำกับที่ทำเงินได้มากที่สุด 5 อันดับแรก
 
@@ -114,70 +114,84 @@ GROUP BY unique_director
 ORDER BY total_gross DESC
 LIMIT 5;
 ```
-![](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_producer.png)
+![top5_producer](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_producer.png)
 
->[!note]
->มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถเป็นได้มากกว่าหนึ่งประเภท โดย ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
+### 5. ประเภทหนังที่มีจำนวนหนังเยอะที่สุด 10 อันดับแรกคือ
 
-## 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับคือ gay and lesbian, crime, other, documentary และ animation ตามลำดับ
+เนื่องจาก
 
-## 7. ส่วนประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับคือ other, war, anime, crime และ musical
-
-## 8. ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับคือ action, adventure, sci fi, fantasy และ kids and family
-
-  
-
+```SQL
 -- See number of movies, average critic score, people score and gross in each movies genre
-
   -- Split genre which is a multiple value string with comma seperated to array using SPLIT
-
   -- Using UNNEST to seperated the genre array to get a long format of data
 
-/*
-
 WITH sub AS (
-
   SELECT
-
     title,
-
     critic_score,
-
     people_score,
-
     gross_usa,
-
     SPLIT(genre, ", ") AS dis_genre
-
   FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-
 )
 
+SELECT
+  DISTINCT(genre) as unique_genre,
+  COUNT(title) as num_movies,
+  ROUND(AVG(critic_score), 2) as avg_critic_score,
+  ROUND(AVG(people_score), 2) as avg_people_score,
+  ROUND(AVG(gross_usa)) as avg_gross
+FROM sub,
+UNNEST(dis_genre) as genre
+GROUP BY genre
+ORDER BY num_movies DESC
+```
+
+>[!note]
+>มีประเภทหนังทั้งหมด 23 ประเภท ซึ่งหนังหนึ่งเรื่องสามารถเป็นได้มากกว่าหนึ่งประเภท
+
+[top10_genre_nummovie](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_genre_nummovie.png)
+
+### 6. ประเภทหนังที่ได้คะแนนนักวิจารณ์สูงสุด 5 อันดับคือ gay and lesbian, crime, other, documentary และ animation ตามลำดับ
+
+![top5_genre_criticscore](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_genre_criticscore.png)
+
+### 7. ส่วนประเภทหนังที่ได้คะแนนคนดูสูงสุด 5 อันดับคือ other, war, anime, crime และ musical
+
+![top5_genre_peoplescore](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_genre_peoplescore.png)
+
+### 8. ประเภทหนังที่ทำเงินได้สูงที่สุด 5 อันดับคือ action, adventure, sci fi, fantasy และ kids and family
+
+![top5_gross_genre](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_gross_genre.png)
+
   
+```SQL
+-- See number of movies, average critic score, people score and gross in each movies genre
+  -- Split genre which is a multiple value string with comma seperated to array using SPLIT
+  -- Using UNNEST to seperated the genre array to get a long format of data
+
+WITH sub AS (
+  SELECT
+    title,
+    critic_score,
+    people_score,
+    gross_usa,
+    SPLIT(genre, ", ") AS dis_genre
+  FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
+)
 
 SELECT
-
   DISTINCT(genre) as unique_genre,
-
   COUNT(title) as num_movies,
-
   ROUND(AVG(critic_score), 2) as avg_critic_score,
-
   ROUND(AVG(people_score), 2) as avg_people_score,
-
   ROUND(AVG(gross_usa)) as avg_gross
-
 FROM sub,
-
 UNNEST(dis_genre) as genre
-
 GROUP BY genre
-
 ORDER BY num_movies DESC
+```
 
-*/
-
-  
 
 ## 9. จำนวนหนังทีได้คะแนนนักวิจารณ์สูงสุดในแต่ละปี
 
