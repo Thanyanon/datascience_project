@@ -64,7 +64,7 @@ LIMIT 5
 - หนังที่คะแนนนักวิจารณ์สูงกว่าคะแนนคนดูมีประมาณ 600 เรื่อง ซึ่งมากกว่าหนังที่คะแนนคนดูมากกว่าคะแนนนักวิจารณ์ที่ 90 เรื่องอยู่เกือบ 6 เท่า 
 - แต่หนังที่คนดูให้คะแนนมากกว่านักวิจารณ์ทำรายได้เฉลี่ยอยู่ที่ประมาณ 70,000,000 เหรียญ ซึ่งมากกว่าหนังที่นักวิจารณ์ให้คะแนนมากกว่าที่ 50,000,000 เหรียญอยู่ 40%
 
-**หนังที่นักวิจารณ์ชอบมากกว่าคนดู**
+**จำนวนหนังที่นักวิจารณ์ชอบมากกว่าคนดู**
 
 ```SQL
 -- Number and average gross of movies which people score > critic_score
@@ -77,7 +77,7 @@ WHERE people_score - critic_score > 0 AND gross_usa IS NOT NULL
 ```
 ![avg_gross_cmp](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/avg_gross_cmp.png)
 
-**หนังที่คนดูชอบมากกว่านักวิจารณ์**
+**จำนวนหนังที่คนดูชอบมากกว่านักวิจารณ์**
 
 ```SQL
 -- Number and average gross of movies which critic_score > people score
