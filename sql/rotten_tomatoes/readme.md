@@ -228,7 +228,7 @@ AND movies.critic_score = max_scores.max_critic_score
 
 หนังที่ได้คะแนนนักวิจารณ์สูงสุดในแต่ละปีเป็นหนัง drama เป็นส่วนมาก โดยมีหนังถึง 60 เรื่องที่เป็นหนังประเภท drama
 
-```
+```SQL
 WITH sub AS (
   SELECT
     title,
