@@ -1,4 +1,4 @@
-```SQL
+
 # Investigate rotten_tomatoes data using SQL
 
 เป็นข้อมูลคะแนนของนักวิจารณ์และคนดูรวมถึงประเภทหนังและรายได้จาก rotten tomatoes ตั้งแต่ปี 1971 ถึงปี 2020 ทั้งหมด 997 เรื่อง
@@ -414,4 +414,3 @@ GROUP BY genre
 ORDER BY num_movies DESC
 
 */
-```
