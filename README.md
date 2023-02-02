@@ -21,6 +21,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ## _Top project_
 
+- [Investigate rotten_tomatoes data using SQL](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 - [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
 - [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a Pivot Table and a Pivot Chart](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
 - [The data master participant clustering using pycaret](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
@@ -35,6 +36,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 ### SQL
 
 - [X] [Noodle restaurant Relational Database](https://github.com/Thanyanon/datascience_project/tree/main/sql)
+- [x] [Investigate Rotten tomatoes data using SQL](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 
 ### Data Visualization
 
