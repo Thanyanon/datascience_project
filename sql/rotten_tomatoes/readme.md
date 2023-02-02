@@ -33,7 +33,7 @@
 
 ### หนังที่ทำรายได้สูงสุด 5 อันดับแรก
 
-```
+``` SQL
 -- Top 5 movies with highest gross
 
 /*
