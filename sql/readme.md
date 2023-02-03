@@ -9,6 +9,6 @@ Writing with SQL in replit: [Link](https://replit.com/@ThanyanonSaetan/SQLhomewo
 
 ## 2. Investigate Rotten tomatoes data using SQL
 
-[Link](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
+Google Bigquey sandbox show case by using SQL [Link](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 
 ![top10_movies_gross](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_movies_gross.png)
