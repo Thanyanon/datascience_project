@@ -58,7 +58,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 ### Essential Python for Data Analyst
 
 - [ ] Healthy food sales increase recommendations
-- [x] [Rotten tomatoes movies reviews data preparation](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes.ipynb)
+- [x] [Rotten tomatoes movies reviews data preparation](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
 - [x] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
 
 ### Machine Learning
