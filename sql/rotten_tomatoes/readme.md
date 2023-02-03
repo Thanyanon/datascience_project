@@ -3,7 +3,7 @@
 
 - เป็นข้อมูลคะแนนของนักวิจารณ์และคนดูรวมถึงประเภทหนังและรายได้จาก rotten tomatoes ตั้งแต่ปี 1971 ถึงปี 2020 ทั้งหมด 997 เรื่อง
 - ข้อมูลจาก [Kaggle link](https://www.kaggle.com/datasets/thedevastator/rotten-tomatoes-top-movies-ratings-and-technical)
-- Data preparation process in this [github link](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes.ipynb)
+- Data preparation process in this [github link](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
 
 ## Finding
   
