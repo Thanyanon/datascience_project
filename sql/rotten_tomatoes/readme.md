@@ -40,21 +40,19 @@ LIMIT 10
 ![top10_movies_gross](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top10_movies_gross.png)
 
 
-## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูสูงสุด 5 อันดับแรก
+## 2. หนังที่ได้คะแนนนักวิจารณ์และคนดูเฉลี่ยสูงสุด 5 อันดับแรก
 
 ```SQL
--- Top 5 movies with highest critic_score and people_score
+-- Top 5 movies with highest score
 
 SELECT
-  title,
-  year,
-  genre,
-  critic_score,
-  people_score,
-  gross_usa
-FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
-ORDER BY critic_score DESC, people_score DESC
-LIMIT 5
+  title,
+  year,
+  genre,
+  (critic_score + people_score)/2 AS total_score
+FROM `studied-triode-356514.rotten_tomatoes.rotten_tomatoes_movies`
+ORDER BY total_score DESC
+LIMIT 5
 ```
 ![top5_score](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/top5_score.png)
   
