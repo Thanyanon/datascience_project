@@ -21,9 +21,9 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ## _Top project_
 
-- [Investigate rotten_tomatoes data using SQL](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
+- [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a `Pivot Table`, `Pivot Chart` and `Power BI`](https://thanyanonsa.wordpress.com/2023/02/07/annual-sales-report-use-case/)(show case in personal website)
 - [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
-- [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a Pivot Table and a Pivot Chart](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
+- [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 - [The data master participant clustering using pycaret](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
 - [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
@@ -31,12 +31,12 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Spreadsheet
 
-- [x] [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a Pivot Table and a Pivot Chart](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
+- [x] [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a `Pivot Table`, `Pivot Chart` and `Power BI`](https://thanyanonsa.wordpress.com/2023/02/07/annual-sales-report-use-case/)
 
 ### SQL
 
-- [X] [Noodle restaurant Relational Database](https://github.com/Thanyanon/datascience_project/tree/main/sql)
-- [x] [Investigate Rotten tomatoes data using SQL](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
+- [X] [Create Noodle restaurant Relational Database using `SQL`](https://github.com/Thanyanon/datascience_project/tree/main/sql)
+- [x] [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 
 ### Data Visualization
 
@@ -57,15 +57,14 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Essential Python for Data Analyst
 
-- [ ] Healthy food sales increase recommendations
 - [x] [Rotten tomatoes movies reviews data preparation](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
-- [x] [Webscapping from prosetting.net using beautifulsoup](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
+- [x] [Webscapping from prosetting.net using `beautifulsoup`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
 
 ### Machine Learning
 
-- [x] [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
-- [x] [The data master participant clustering using pycaret](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
+- [x] [Houseprice Prediction Kaggle competition using `sklearn`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
+- [x] [The data master participant clustering using `pycaret`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
 
 ### Dashboard
 
-- [x] [Annual sales report dashboard using ```Power BI```](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
+- [x] [Annual sales report dashboard using `Power BI`](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
