@@ -24,8 +24,8 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a `Pivot Table`, `Pivot Chart` and `Power BI`](https://thanyanonsa.wordpress.com/2023/02/07/annual-sales-report-use-case/)(show case in personal website)
 - [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
 - [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
-- [The data master participant clustering using pycaret](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
-- [Houseprice Prediction Kaggle competition using sklearn](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
+- [The data master participant clustering using `pycaret`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
+- [Houseprice Prediction Kaggle competition using `sklearn`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
 ## List of skill
 
@@ -40,7 +40,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Data Visualization
 
-- [x] [Prosetting.net player data visualization using pivot chart](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
+- [x] [Prosetting.net player data visualization using `pivot chart`](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
 - [ ] Top 3 product brought quantity using matplotlib
 - [ ] Rotten Tomatoes Top movies using Tableau
 
