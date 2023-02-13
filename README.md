@@ -60,8 +60,8 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 - [x] [Rotten tomatoes movies reviews data preparation using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
 - [x] [Webscapping from prosetting.net using `beautifulsoup`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
-- [ ] [Get myanimelist.net data from web API using `requests`]
-- [ ] [myanimelist data preparation using `python`]
+- [x] [Get myanimelist.net data from web API using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/myanimelist.net/myanimelist_api.ipynb)
+- [x] [myanimelist data preparation using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/myanimelist.net/myanimelist_preparation.ipynb)
 
 ### Machine Learning
 
