@@ -24,7 +24,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a `Pivot Table`, `Pivot Chart` and `Power BI`](https://thanyanonsa.wordpress.com/2023/02/07/annual-sales-report-use-case/)(show case in personal website)
 - [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
 - [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
-- [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)(get data via web API using `python`)
 - [The data master participant clustering using `pycaret`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
 - [Houseprice Prediction Kaggle competition using `sklearn`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
