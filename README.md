@@ -39,23 +39,6 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [X] [Create Noodle restaurant Relational Database using `SQL`](https://github.com/Thanyanon/datascience_project/tree/main/sql)
 - [x] [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 
-### Data Visualization | Dashboard
-
-- [x] [Prosetting.net player data visualization using `pivot chart`](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
-- [x] [Annual sales report dashboard using `Power BI`](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
-- [x] [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)
-
-### Intro to R programming
-
-- [X] [Pizza Chatbot](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
-- [X] [Rock paper scissors](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
-
-### Intro to Python Programming
-
-- [x] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
-- [x] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
-- [x] [Bigram of students name and surname](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/bigram_name_surname_.ipynb)
-
 ### Essential Python for Data Analyst
 
 - [x] [Rotten tomatoes movies reviews data preparation using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
@@ -63,8 +46,25 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [x] [Get myanimelist.net data from web API using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/myanimelist.net/myanimelist_api.ipynb)
 - [x] [myanimelist data preparation using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/myanimelist.net/myanimelist_preparation.ipynb)
 
+### Data Visualization | Dashboard
+
+- [x] [Prosetting.net player data visualization using `pivot chart`](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
+- [x] [Annual sales report dashboard using `Power BI`](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
+- [x] [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Machine Learning
 
 - [x] [Houseprice Prediction Kaggle competition using `sklearn`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 - [x] [The data master participant clustering using `pycaret`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
+
+### Intro to Python Programming
+
+- [x] [Card shuffle](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/card_shuffle.ipynb)
+- [x] [Book rental shop](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/book_rental_shop.ipynb)
+- [x] [Bigram of students name and surname](https://github.com/Thanyanon/datascience_project/blob/main/intro_to_python/bigram_name_surname_.ipynb)
+
+### Intro to R programming
+
+- [X] [Pizza Chatbot](https://replit.com/@ThanyanonSaetan/Batch6Chatbotpizza#main.r)
+- [X] [Rock paper scissors](https://replit.com/@ThanyanonSaetan/Batch6PaoYingChub#main.r)
 
