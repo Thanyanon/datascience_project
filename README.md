@@ -24,6 +24,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [Realworld Usecase Annual Sales Analysis and Dashboard from xxCompany Data Using a `Pivot Table`, `Pivot Chart` and `Power BI`](https://thanyanonsa.wordpress.com/2023/02/07/annual-sales-report-use-case/)(show case in personal website)
 - [Most Popular Gaming Mouse From FPS Esport Player](https://thanyanonsa.wordpress.com/2023/01/16/most-popular-gaming-mouse-from-fps-esport-player/)(show case in personal website)
 - [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
+- [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)
 - [The data master participant clustering using `pycaret`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
 - [Houseprice Prediction Kaggle competition using `sklearn`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 
@@ -38,11 +39,11 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [X] [Create Noodle restaurant Relational Database using `SQL`](https://github.com/Thanyanon/datascience_project/tree/main/sql)
 - [x] [Investigate Rotten tomatoes movies data using `SQL`](https://github.com/Thanyanon/datascience_project/blob/main/sql/rotten_tomatoes/readme.md)
 
-### Data Visualization
+### Data Visualization | Dashboard
 
 - [x] [Prosetting.net player data visualization using `pivot chart`](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
-- [ ] Top 3 product brought quantity using matplotlib
-- [ ] Rotten Tomatoes Top movies using Tableau
+- [x] [Annual sales report dashboard using `Power BI`](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
+- [x] [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Intro to R programming
 
@@ -57,14 +58,13 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 
 ### Essential Python for Data Analyst
 
-- [x] [Rotten tomatoes movies reviews data preparation](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
+- [x] [Rotten tomatoes movies reviews data preparation using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/rotten_tomatoes/rotten_tomatoes.ipynb)
 - [x] [Webscapping from prosetting.net using `beautifulsoup`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
+- [ ] [Get myanimelist.net data from web API using `requests`]
+- [ ] [myanimelist data preparation using `python`]
 
 ### Machine Learning
 
 - [x] [Houseprice Prediction Kaggle competition using `sklearn`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/house_price_calculation_kaggle-rev5.ipynb)
 - [x] [The data master participant clustering using `pycaret`](https://github.com/Thanyanon/datascience_project/blob/main/machine_learning/the_data_master_clustering_rev2.ipynb)
 
-### Dashboard
-
-- [x] [Annual sales report dashboard using `Power BI`](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
