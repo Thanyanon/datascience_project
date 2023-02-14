@@ -45,6 +45,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 - [x] [Webscapping from prosetting.net using `beautifulsoup`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/webscraping_prosetting/webscraping_prosetting.ipynb)
 - [x] [Get myanimelist.net data from web API using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/myanimelist.net/myanimelist_api.ipynb)
 - [x] [myanimelist data preparation using `python`](https://github.com/Thanyanon/datascience_project/blob/main/essential_python/myanimelist.net/myanimelist_preparation.ipynb)
+- [x] [pandas foundation final project datarockie bootcamp batch6](https://datalore.jetbrains.com/notebook/prm6wgCayjT7BXjcNuJm7K/g9uf8UxD936MuKCvC9ww9Y/)
 
 ### Data Visualization | Dashboard
 
