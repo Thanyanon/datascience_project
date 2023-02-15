@@ -50,6 +50,7 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 ### Data Visualization | Dashboard
 
 - [x] [Prosetting.net player data visualization using `pivot chart`](https://github.com/Thanyanon/datascience_project/tree/main/data_visualization/prosetting.net)
+- [x] [Prosetting.net player dashboard using `Looker Studio`](https://lookerstudio.google.com/s/iMers7Nn9O8)
 - [x] [Annual sales report dashboard using `Power BI`](https://github.com/Thanyanon/datascience_project/tree/main/spreadsheet/annual_sales_report)
 - [x] [Anime Dashboard From myanimelist using `Tableau Public`](https://public.tableau.com/views/myanimelist/MyAnimeList?:language=en-US&:display_count=n&:origin=viz_share_link)
 
