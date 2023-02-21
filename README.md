@@ -10,8 +10,12 @@ My name is Thanyanon(Non), ex Electrical engineer who's passionate in datascienc
 ## Data science Bootcamp attendance
 
 - Data Analyst
-  - Google Data Analytics Professional(finished)
-  - DataRockie Bootcamp batch 6(finished)
+  - [Google Data Analytics Professional](https://www.credly.com/badges/432bfdc6-3618-4677-9248-91f304c56f71/linked_in_profile)(finished)
+  - <img src="https://thanyanonsa.files.wordpress.com/2023/02/gcc_badge_da_1000x1000.png" width="150" height="150">
+  - [Helloworld Bootcamp Datarockies](https://badgr.com/public/assertions/MbMkGRRMQP6A-x2l03-H9w?identity__email=thanyanon.sa@gmail.com)(finished)
+  - <img src="https://thanyanonsa.files.wordpress.com/2023/02/hello-world-bootcamp.png" width="150" height="150">
+  - [DataRockie Bootcamp batch 6](https://badgr.com/public/assertions/WdMp1aF9S42J2L-xt1Z7Qw?identity__email=thanyanon.sa@gmail.com)(finished)
+  - <img src="https://thanyanonsa.files.wordpress.com/2023/02/certified-professional-data-analyst-digital-badge.png" width="150" height="150">
   
 - Data Scientist  
   - The Data Master Xlab & Chula(on-going)
